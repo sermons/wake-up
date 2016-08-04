@@ -14,11 +14,11 @@ Speaker notes go here.
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
-1. Don't assume **Continuity** <span class="hl1">(v3-4)</span>
-2. Remember **Creation** + Flood <span class="hl1">(v5-7)</span>
-3. God's patience is **Charity** <span class="hl1">(v8-9)</span>
-4. Imminent **Cataclysm** <span class="hl1">(v10)</span>
-5. Anticipate Christ's **Coming** <span class="hl1">(v11-13)</span>
+1. Don't assume **Continuity** <span class="hl2">(v3-4)</span>
+2. Remember **Creation** + Flood <span class="hl2">(v5-7)</span>
+3. God's patience is **Charity** <span class="hl2">(v8-9)</span>
+4. Imminent **Cataclysm** <span class="hl2">(v10)</span>
+5. Anticipate Christ's **Coming** <span class="hl2">(v11-13)</span>
 
 ---
 
@@ -43,20 +43,18 @@ as it has since the **beginning** of creation.”
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## Have I succumbed to
-## **legalism**, **lust**, or **laziness**
-## by neglecting the **imminence**
-## of Christ's return?
+# Have I succumbed to <br/> **legalism**, **lust**, or **laziness**
+# by neglecting the **imminence** <br/> of Christ's return?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
-1. Don't assume *Continuity* <span class="hl1">(v3-4)</span>
-2. **Remember Creation + Flood** <span class="hl1">(v5-7)</span>
-3. God's patience is *Charity* <span class="hl1">(v8-9)</span>
-4. Imminent *Cataclysm* <span class="hl1">(v10)</span>
-5. Anticipate Christ's *Coming* <span class="hl1">(v11-13)</span>
+1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
+2. **Remember Creation + Flood** <span class="hl2">(v5-7)</span>
+3. God's patience is *Charity* <span class="hl2">(v8-9)</span>
+4. Imminent *Cataclysm* <span class="hl2">(v10)</span>
+5. Anticipate Christ's *Coming* <span class="hl2">(v11-13)</span>
 
 ---
 
@@ -82,7 +80,7 @@ are reserved for **fire**, being kept for the <br/>
 
 <div class="caption">(
 [img &copy; James Wheeler](http://www.souvenirpixels.com/photo-blog/double-rainbow), CC BY-NC-SA 3.0
-</div>
+)</div>
 
 ---
 <!-- .slide: data-background-image="static/bg/elmada-noah_ark.jpg" -->
@@ -100,6 +98,11 @@ but the pledge of a clear **conscience** toward God.
 
 It saves you by the **resurrection** of Jesus Christ.
 
+<div class="caption">(
+Creation Museum, Boone KY.
+[img &copy; 2007 Adam Lederer](https://www.flickr.com/photos/elmada/684442050), CC BY-NC-SA 2.0
+)</div>
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # What is my **attitude** toward **Creation** and the **Flood**?
@@ -112,11 +115,11 @@ It saves you by the **resurrection** of Jesus Christ.
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
-1. Don't assume *Continuity* <span class="hl1">(v3-4)</span>
-2. Remember *Creation* + Flood <span class="hl1">(v5-7)</span>
-3. **God's patience is Charity** <span class="hl1">(v8-9)</span>
-4. Imminent *Cataclysm* <span class="hl1">(v10)</span>
-5. Anticipate Christ's *Coming* <span class="hl1">(v11-13)</span>
+1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
+2. Remember *Creation* + Flood <span class="hl2">(v5-7)</span>
+3. **God's patience is Charity** <span class="hl2">(v8-9)</span>
+4. Imminent *Cataclysm* <span class="hl2">(v10)</span>
+5. Anticipate Christ's *Coming* <span class="hl2">(v11-13)</span>
 
 ---
 
@@ -134,19 +137,19 @@ but everyone to come to **repentance**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## If it is only God's **patience** toward the **not-yet-repentant**
+## If it is only God's **patience** <br/> toward the **not-yet-repentant**
 ## that **holds back** the judgment,
-## how does that change how I **view** them?
+## how does that change <br/> how I **view** them?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
-1. Don't assume *Continuity* <span class="hl1">(v3-4)</span>
-2. Remember *Creation* + Flood <span class="hl1">(v5-7)</span>
-3. God's patience is *Charity* <span class="hl1">(v8-9)</span>
-4. **Imminent Cataclysm** <span class="hl1">(v10)</span>
-5. Anticipate Christ's *Coming* <span class="hl1">(v11-13)</span>
+1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
+2. Remember *Creation* + Flood <span class="hl2">(v5-7)</span>
+3. God's patience is *Charity* <span class="hl2">(v8-9)</span>
+4. **Imminent Cataclysm** <span class="hl2">(v10)</span>
+5. Anticipate Christ's *Coming* <span class="hl2">(v11-13)</span>
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -162,17 +165,18 @@ will be **laid bare**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What in this world do I **hold onto** which will be **burned** with the elements?
+# What in this world <br/> do I **hold onto**
+# which will be **burned** <br/> with the elements?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
-1. Don't assume *Continuity* <span class="hl1">(v3-4)</span>
-2. Remember *Creation* + Flood <span class="hl1">(v5-7)</span>
-3. God's patience is *Charity* <span class="hl1">(v8-9)</span>
-4. Imminent *Cataclysm* <span class="hl1">(v10)</span>
-5. **Anticipate Christ's Coming** <span class="hl1">(v11-13)</span>
+1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
+2. Remember *Creation* + Flood <span class="hl2">(v5-7)</span>
+3. God's patience is *Charity* <span class="hl2">(v8-9)</span>
+4. Imminent *Cataclysm* <span class="hl2">(v10)</span>
+5. **Anticipate Christ's Coming** <span class="hl2">(v11-13)</span>
 
 ---
 
