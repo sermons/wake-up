@@ -7,8 +7,11 @@ Speaker notes go here.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## Those who assume **continuity** of the world forget **creation** and make light of God's **charity**.
-## In view of the imminent **cataclysm**, anticipate Christ's **coming** by living holy and reverent lives.
+## Those who assume **continuity** of the world forget about **creation** and <br/> make light of God's **charity**.
+## In view of the imminent **cataclysm**, anticipate Christ's **coming** <br/> by living holy and reverent lives.
+
+>>>
+Might not have this as separate slide, just a note on outline slide
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
@@ -43,8 +46,8 @@ as it has since the **beginning** of creation.”
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Have I succumbed to <br/> **legalism**, **lust**, or **laziness**
-# by neglecting the **imminence** <br/> of Christ's return?
+## Have I succumbed to <br/> **legalism**, **lust**, or **laziness**
+## by neglecting the **imminence** <br/> of Christ's return?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
@@ -71,12 +74,7 @@ are reserved for **fire**, being kept for the <br/>
 **day of judgment** and destruction of the ungodly.
 
 ---
-<!-- .slide: data-background-image="static/bg/wheeler-rainbow.jpg" -->
-
-## Flood &rarr; Judgment
-By the same word the **present heavens and earth** <br/>
-are reserved for **fire**, being kept for the <br/>
-**day of judgment** and destruction of the ungodly.
+<!-- .slide: data-background-image="static/bg/wheeler-rainbow.jpg" class="empty bottom" -->
 
 <div class="caption">(
 [img &copy; James Wheeler](http://www.souvenirpixels.com/photo-blog/double-rainbow), CC BY-NC-SA 3.0

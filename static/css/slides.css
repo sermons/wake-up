@@ -15,9 +15,16 @@ section[data-background-image] {
 }
 section.empty[data-background-image] {
   background-color: rgba(0,0,0,0);
-}
-section.empty[data-background-image] {
   text-shadow: black 2px 2px 3px;
+}
+
+/* Override slide centering */
+.reveal section.top {
+  top: 0 !important;
+}
+.reveal section.bottom {
+  top: initial !important;
+  bottom: 0;
 }
 
 /* Highlighted Text */
@@ -62,9 +69,6 @@ section.empty[data-background-image] {
   width: 30%;
   border-bottom: 1px solid;
 }
-.reveal section.nocenter {
-  top: 0 !important;
-}
 
 /* Flexbox layout for images */
 .imgbox {
@@ -80,9 +84,12 @@ section.empty[data-background-image] {
 .reveal section .imgbox img {
   border: none;
 }
+
+/* Image captions */
 .reveal section .caption {
   font-size: 50%;
   color: #aaa;
+  background-color: rgba(0,0,0,0.85);
 }
 
 /* Common slide header/footer */
