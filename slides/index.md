@@ -7,11 +7,10 @@ Speaker notes go here.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## Those who assume **continuity** of the world forget about **creation** and <br/> make light of God's **charity**.
-## In view of the imminent **cataclysm**, anticipate Christ's **coming** <br/> by living holy and reverent lives.
+# The **end** is near!
+# **So what**?
 
 >>>
-Might not have this as separate slide, just a note on outline slide
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
@@ -22,6 +21,10 @@ Might not have this as separate slide, just a note on outline slide
 3. God's patience is **Charity** <span class="hl2">(v8-9)</span>
 4. Imminent **Cataclysm** <span class="hl2">(v10)</span>
 5. Anticipate Christ's **Coming** <span class="hl2">(v11-13)</span>
+
+>>>
+Those who assume **continuity** of the world forget about **creation** and <br/> make light of God's **charity**.
+In view of the imminent **cataclysm**, anticipate Christ's **coming** <br/> by living holy and reverent lives.
 
 ---
 

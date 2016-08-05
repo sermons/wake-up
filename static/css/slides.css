@@ -19,12 +19,14 @@ section.empty[data-background-image] {
 }
 
 /* Override slide centering */
-.reveal section.top {
-  top: 0 !important;
-}
-.reveal section.bottom {
-  top: initial !important;
-  bottom: 0;
+@media screen {
+  section.top {
+    top: 0 !important;
+  }
+  section.bottom {
+    top: initial !important;
+    bottom: 0;
+  }
 }
 
 /* Highlighted Text */
@@ -89,7 +91,11 @@ section.empty[data-background-image] {
 .reveal section .caption {
   font-size: 50%;
   color: #aaa;
-  background-color: rgba(0,0,0,0.85);
+}
+@media screen {
+  .reveal section.empty .caption {
+    background-color: rgba(0,0,0,0.85);
+  }
 }
 
 /* Common slide header/footer */
