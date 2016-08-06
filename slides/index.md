@@ -3,7 +3,7 @@
 ## 2 Peter 3:3-13
 
 >>>
-Speaker notes go here.
+[wake-up](http://wake-up.seanho.com/)
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -19,7 +19,7 @@ Speaker notes go here.
 1. Don't assume **Continuity** <span class="hl2">(v3-4)</span>
 2. Remember **Creation** + Flood <span class="hl2">(v5-7)</span>
 3. God's patience is **Charity** <span class="hl2">(v8-9)</span>
-4. Imminent **Cataclysm** <span class="hl2">(v10)</span>
+4. A **Cataclysm** is Imminent <span class="hl2">(v10)</span>
 5. Anticipate Christ's **Coming** <span class="hl2">(v11-13)</span>
 
 >>>
@@ -59,7 +59,7 @@ as it has since the **beginning** of creation.”
 1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
 2. **Remember Creation + Flood** <span class="hl2">(v5-7)</span>
 3. God's patience is *Charity* <span class="hl2">(v8-9)</span>
-4. Imminent *Cataclysm* <span class="hl2">(v10)</span>
+4. A *Cataclysm* is Imminent <span class="hl2">(v10)</span>
 5. Anticipate Christ's *Coming* <span class="hl2">(v11-13)</span>
 
 ---
@@ -86,23 +86,29 @@ are reserved for **fire**, being kept for the <br/>
 ---
 <!-- .slide: data-background-image="static/bg/elmada-noah_ark.jpg" -->
 
-## 1 Peter 3:20-21 (NIV)
+## 1 Peter 3:20 (NIV) (p.1/2)
 God waited **patiently** in the days of Noah <br/>
 while the **ark** was being built.
 
 In it only a few people, **eight** in all, <br/>
-were saved through **water**, and this water <br/>
-symbolizes **baptism** that now saves you also --
-
-not the removal of **dirt** from the body <br/>
-but the pledge of a clear **conscience** toward God.
-
-It saves you by the **resurrection** of Jesus Christ.
+were saved through **water** ...
 
 <div class="caption">(
 Creation Museum, Boone KY.
 [img &copy; 2007 Adam Lederer](https://www.flickr.com/photos/elmada/684442050), CC BY-NC-SA 2.0
 )</div>
+
+---
+<!-- .slide: data-background-image="static/bg/elmada-noah_ark.jpg" -->
+
+## 1 Peter 3:21 (NIV) (p.2/2)
+... and this water symbolizes **baptism** <br/>
+that now saves you also --
+
+not the removal of **dirt** from the body <br/>
+but the pledge of a clear **conscience** toward God.
+
+It saves you by the **resurrection** of Jesus Christ.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -119,7 +125,7 @@ Creation Museum, Boone KY.
 1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
 2. Remember *Creation* + Flood <span class="hl2">(v5-7)</span>
 3. **God's patience is Charity** <span class="hl2">(v8-9)</span>
-4. Imminent *Cataclysm* <span class="hl2">(v10)</span>
+4. A *Cataclysm* is Imminent <span class="hl2">(v10)</span>
 5. Anticipate Christ's *Coming* <span class="hl2">(v11-13)</span>
 
 ---
@@ -149,7 +155,7 @@ but everyone to come to **repentance**.
 1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
 2. Remember *Creation* + Flood <span class="hl2">(v5-7)</span>
 3. God's patience is *Charity* <span class="hl2">(v8-9)</span>
-4. **Imminent Cataclysm** <span class="hl2">(v10)</span>
+4. **A Cataclysm is Imminent** <span class="hl2">(v10)</span>
 5. Anticipate Christ's *Coming* <span class="hl2">(v11-13)</span>
 
 ---
@@ -176,7 +182,7 @@ will be **laid bare**.
 1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
 2. Remember *Creation* + Flood <span class="hl2">(v5-7)</span>
 3. God's patience is *Charity* <span class="hl2">(v8-9)</span>
-4. Imminent *Cataclysm* <span class="hl2">(v10)</span>
+4. A *Cataclysm* is Imminent <span class="hl2">(v10)</span>
 5. **Anticipate Christ's Coming** <span class="hl2">(v11-13)</span>
 
 ---
