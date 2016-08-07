@@ -37,7 +37,14 @@ They will say, “Where is this ‘coming’ he **promised**? <br/>
 Ever since our ancestors died, everything **goes on** <br/>
 as it has since the **beginning** of creation.”
 
+>>>
++ scoff: child play, dance, scorn, deride
++ goes on, beginning: then &rarr; now
+  + blind watchmaker (Dawkins)
+  + created &rarr; sustained
+
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-URmkfvtK3Qw-freeway.jpg" -->
 
 ## Complacency of Continuity
 
@@ -59,7 +66,7 @@ It is these who cause **divisions**, <br/>
 ---
 <!-- .slide: data-background-image="static/bg/Koninck-Parable_Vineyard.jpg" -->
 
-## Matthew 24:45-47 (NIV) (p.1/2)
+## Matthew 24:45-46 (NIV) (p.1/2)
 Who then is the **faithful** and **wise** servant, <br/>
 whom the master has put in **charge** <br/>
 of the servants in his household <br/>
@@ -68,9 +75,6 @@ to give them their **food** at the proper time?
 It will be **good** for that servant <br/>
 whose master finds him doing so when he **returns**.
 
-Truly I tell you, he will put him <br/>
-in charge of all his possessions.
-
 <div class="caption">(img:
 [Salomon Koninck, "Parable of the Workers in the Vineyard"](https://commons.wikimedia.org/wiki/File%3ASalomon_Koninck_-_Parable_of_the_Workers_in_the_Vineyard_-_WGA12249.jpg), ~1648.  Hermitage Museum, St. Petersburg
 )</div>
@@ -78,7 +82,7 @@ in charge of all his possessions.
 ---
 <!-- .slide: data-background-image="static/bg/Koninck-Parable_Vineyard.jpg" -->
 
-## Matthew 24:48-51 (NIV) (p.2/2)
+## Matthew 24:48-50 (NIV) (p.2/2)
 But suppose that servant is **wicked** <br/>
 and says to himself, <br/>
 ‘My master is staying away a **long time**,’
@@ -90,9 +94,10 @@ The master of that servant will come <br/>
 on a day when he **does not expect** him <br/>
 and at an hour he is **not aware** of.
 
-He will cut him to **pieces** <br/>
-and assign him a place with the **hypocrites**, <br/>
-where there will be **weeping** and gnashing of teeth.
+>>>
++ cut him to **pieces**
++ place with the **hypocrites**
++ **weeping** and gnashing of teeth.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -125,15 +130,11 @@ are reserved for **fire**, being kept for the <br/>
 
 ---
 <!-- .slide: data-background-image="static/bg/earth.jpg" -->
-
-## Creation (v5)
 By God’s word the **heavens** came into **being** <br/>
 and the **earth** was **formed** out of water and by water.
 
 ---
 <!-- .slide: data-background-image="static/bg/Hans-wave-384385.jpg" -->
-
-## Flood (v6)
 By these waters also the **world of that time** <br/>
 was deluged and destroyed.
 
@@ -156,8 +157,6 @@ to destroy all life.
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-NuE8Nu3otjo-aurora.jpg" -->
-
-## Judgment (v7)
 By the same word the **present heavens and earth** <br/>
 are reserved for **fire**, being kept for the <br/>
 **day of judgment** and destruction of the ungodly.
@@ -230,13 +229,11 @@ but everyone to come to **repentance**.
 <!-- .slide: data-background-image="static/bg/bigbirdz-prayer.jpg" -->
 
 ## Ezekiel 33:11 (NIV)
-As surely as I live, declares the Sovereign Lord,
-
 I take **no pleasure** in the death of the wicked, <br/>
 but rather that they **turn** from their ways and **live**.
 
 **Turn!** Turn from your evil ways! <br/>
-**Why** will you die, people of Israel?
+Why will you **die**, people of Israel?
 
 <div class="caption">(img:
 [&copy; 2010 @bigbirdz](https://www.flickr.com/photos/bigbirdz/5024081279), CC BY 2.0
