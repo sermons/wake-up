@@ -65,3 +65,13 @@ But in keeping with his promise we are <br/>
 looking forward to a new heaven and a new earth, <br/>
 where righteousness dwells.
 
+---
+<!-- .slide: data-background-image="static/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
+
+## Ephesians 4:1-2 (ESV)
+[...] **walk** in a manner **worthy** of the calling <br/>
+to which you have been called,
+
+with all **humility** and **gentleness**, <br/>
+with **patience**, bearing with one another in **love**
+

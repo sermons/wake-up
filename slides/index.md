@@ -327,15 +327,13 @@ You ought to live **holy** and **godly** lives as you <br/>
 looking forward to a **new heaven** and a **new earth**, <br/>
 where righteousness dwells.
 
----
-<!-- .slide: data-background-image="static/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
-
-## Ephesians 4:1-2 (ESV)
-[...] **walk** in a manner **worthy** of the calling <br/>
-to which you have been called,
-
-with all **humility** and **gentleness**, <br/>
-with **patience**, bearing with one another in **love**
+>>>
++ look forward: welcome, anticipate, think forward
+  + tension from **hope** + **fear**
++ Rev: fearful **judgment** + joyful **redemption**
++ **holy**: set apart, dedicated, not mixed
++ godly: **reverent**, pious
+  + actions in **response** to God's holiness
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
