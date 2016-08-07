@@ -128,10 +128,19 @@ By the same word the **present heavens and earth** <br/>
 are reserved for **fire**, being kept for the <br/>
 **day of judgment** and destruction of the ungodly.
 
+>>>
++ stays **hidden** from them, as they **intend**
+  + unrecog as significant
+
 ---
 <!-- .slide: data-background-image="static/bg/earth.jpg" -->
 By God’s word the **heavens** came into **being** <br/>
 and the **earth** was **formed** out of water and by water.
+
+>>>
++ heavens being (impf): **sustained**
++ earth formed (pf): **created**
+  + God's Word: cf Ac17 Mars Hill
 
 ---
 <!-- .slide: data-background-image="static/bg/Hans-wave-384385.jpg" -->
@@ -141,6 +150,10 @@ was deluged and destroyed.
 <div class="caption">(img:
 [Hans Braxmeier](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/)
 )</div>
+
+>>>
++ the **then-world**
++ parallel to the **now-world**
 
 ---
 <!-- .slide: data-background-image="static/bg/wheeler-rainbow.jpg" -->
