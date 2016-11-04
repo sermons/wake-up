@@ -1,6 +1,40 @@
 {
   "name": "wake-up",
   "version": "0.4.0",
+  "config": {
+    "history": [
+      {
+        "venue": "Christ Church of China",
+        "city": "Coquitlam",
+        "date": "2016-11-20"
+      },
+      {
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2016-08-07"
+      },
+      {
+        "venue": "North Shore Pacific Grace MB Church",
+        "city": "North Vancouver",
+        "date": "2016-07-03"
+      },
+      {
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Coquitlam",
+        "date": "2016-05-22"
+      },
+      {
+        "venue": "Peace Chinese Mennonite Church",
+        "city": "Richmond",
+        "date": "2016-04-10"
+      },
+      {
+        "venue": "Bethel Chinese MB Church",
+        "city": "Vancouver",
+        "date": "2015-11-15"
+      }
+    ]
+  },
   "private": true,
   "devDependencies": {
     "bower": "^1.7.9",
