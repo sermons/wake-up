@@ -4,5 +4,7 @@
 [![Node dependencies](https://david-dm.org/sermons/wake-up.svg)](https://david-dm.org/sermons/wake-up)
 [![Node dev status](https://david-dm.org/sermons/wake-up/dev-status.svg)](https://david-dm.org/sermons/wake-up#info=devDependencies)
 
-Forked from [reveal-skel](https://github.com/sermons/reveal-skel).
+Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
+See [INSTALL.md](INSTALL.md)
+for how to make your own presentation.
