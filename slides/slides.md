@@ -56,7 +56,7 @@ as it has since the **beginning** of creation.”
 
 ---
 
-## Jude 1:18-19 (ESV)
+## Jude 1:18-19 <span class="ref">(ESV)</span>
 In the last time there will be **scoffers**, <br/>
 following their own ungodly **passions**.
 
