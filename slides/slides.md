@@ -78,9 +78,9 @@ It will be **good** for that servant <br/>
 whose master finds him **doing** so <br/>
 when he **returns**.
 
-<div class="caption">(img:
-[Salomon Koninck, "Parable of the Workers in the Vineyard"](https://commons.wikimedia.org/wiki/File%3ASalomon_Koninck_-_Parable_of_the_Workers_in_the_Vineyard_-_WGA12249.jpg), ~1648.  Hermitage Museum, St. Petersburg
-)</div>
+<div class="caption">img:
+[Salomon Koninck, "Parable of the Workers in the Vineyard"](https://commons.wikimedia.org/wiki/File%3ASalomon_Koninck_-_Parable_of_the_Workers_in_the_Vineyard_-_WGA12249.jpg), 1648. Hermitage Museum, St. Petersburg
+</div>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
@@ -104,8 +104,10 @@ and at an hour he is **not aware** of.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## Have I succumbed to <br/> **legalism**, **lust**, or **laziness**
-## by neglecting the **imminence** <br/> of Christ's return?
+## Have I succumbed to
+## **legalism**, **lust**, or **laziness**
+## by neglecting the **imminence**
+## of Christ's return?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
@@ -214,7 +216,8 @@ It saves you by the **resurrection** of Jesus Christ.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What is my **attitude** toward **Creation** and the **Flood**?
+# What is my <br/> **attitude** toward
+# **Creation** and <br/> the **Flood**?
 
 >>>
 + Myth? Allegory? Moral fable?
@@ -323,11 +326,8 @@ will be **laid bare**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What am I
-# **holding onto**
-# which will
-# be **burned** with
-# the elements?
+# What am I <br/> **holding onto**
+# which will be <br/> **burned** with <br/> the elements?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
@@ -384,8 +384,8 @@ will he find **faith** on the earth?
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Does my **lifestyle** and **reverence** welcome
-# Christ's return?
+# Does my **lifestyle** and **reverence**
+# welcome <br/> Christ's return?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
