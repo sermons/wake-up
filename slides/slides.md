@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 # Wake Up!
 ## 2 Peter 3:3-13
 
@@ -13,7 +13,7 @@
 >>>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
 1. Don't assume **Continuity** <span class="ref">(v3-4)</span>
@@ -44,7 +44,7 @@ as it has since the **beginning** of creation.”
   + created &rarr; sustained
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-URmkfvtK3Qw-freeway.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-URmkfvtK3Qw-freeway.jpg" -->
 
 ## Complacency of Continuity
 
@@ -64,7 +64,7 @@ It is these who cause **divisions**, <br/>
 **worldly** people, devoid of the **Spirit**.
 
 ---
-<!-- .slide: data-background-image="static/bg/Koninck-Parable_Vineyard.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
 
 ## Matthew 24:45-46 (NIV) (p.1/2)
 Who then is the **faithful** and **wise** servant, <br/>
@@ -80,7 +80,7 @@ whose master finds him doing so when he **returns**.
 )</div>
 
 ---
-<!-- .slide: data-background-image="static/bg/Koninck-Parable_Vineyard.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
 
 ## Matthew 24:48-50 (NIV) (p.2/2)
 But suppose that servant is **wicked** <br/>
@@ -105,7 +105,7 @@ and at an hour he is **not aware** of.
 ## by neglecting the **imminence** <br/> of Christ's return?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
 1. Don't assume Continuity <span class="ref">(v3-4)</span>
@@ -133,7 +133,7 @@ are reserved for **fire**, being kept for the <br/>
   + unrecog as significant
 
 ---
-<!-- .slide: data-background-image="static/bg/earth.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/earth.jpg" -->
 By God’s word the **heavens** came into **being** <br/>
 and the **earth** was **formed** out of water and by water.
 
@@ -143,7 +143,7 @@ and the **earth** was **formed** out of water and by water.
   + God's Word: cf Ac17 Mars Hill
 
 ---
-<!-- .slide: data-background-image="static/bg/Hans-wave-384385.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
 By these waters also the **world of that time** <br/>
 was deluged and destroyed.
 
@@ -156,7 +156,7 @@ was deluged and destroyed.
 + parallel to the **now-world**
 
 ---
-<!-- .slide: data-background-image="static/bg/wheeler-rainbow.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wheeler-rainbow.jpg" -->
 
 ## Genesis 9:14-15 (NIV)
 Whenever [...] the **rainbow** appears in the clouds
@@ -169,13 +169,13 @@ to destroy all life.
 )</div>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-NuE8Nu3otjo-aurora.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NuE8Nu3otjo-aurora.jpg" -->
 By the same word the **present heavens and earth** <br/>
 are reserved for **fire**, being kept for the <br/>
 **day of judgment** and destruction of the ungodly.
 
 ---
-<!-- .slide: data-background-image="static/bg/elmada-noah_ark.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/elmada-noah_ark.jpg" -->
 
 ## 1 Peter 3:20 (NIV) (p.1/2)
 God waited **patiently** in the days of Noah <br/>
@@ -190,7 +190,7 @@ Creation Museum, Boone KY.
 )</div>
 
 ---
-<!-- .slide: data-background-image="static/bg/elmada-noah_ark.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/elmada-noah_ark.jpg" -->
 
 ## 1 Peter 3:21 (NIV) (p.2/2)
 ... and this water symbolizes **baptism** <br/>
@@ -210,7 +210,7 @@ It saves you by the **resurrection** of Jesus Christ.
 + Historical reality that warns us of the real future judgment
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
 1. Don't assume Continuity <span class="ref">(v3-4)</span>
@@ -239,7 +239,7 @@ but everyone to come to **repentance**.
 + not **procrastination** but **patience**
 
 ---
-<!-- .slide: data-background-image="static/bg/bigbirdz-prayer.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 
 ## Ezekiel 33:11 (NIV)
 I take **no pleasure** in the death of the wicked, <br/>
@@ -259,7 +259,7 @@ Why will you **die**, people of Israel?
 ## how does that change <br/> how I **view** them?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
 1. Don't assume Continuity <span class="ref">(v3-4)</span>
@@ -269,7 +269,7 @@ Why will you **die**, people of Israel?
 5. Anticipate Christ's Coming <span class="ref">(v11-13)</span>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 
 ## Cataclysm (v10)
 But the day of the Lord will come like a **thief**.
@@ -284,7 +284,7 @@ will be **laid bare**.
 + elements: syllable, letter, 1, earth/wind/fire/water
 
 ---
-<!-- .slide: data-background-image="static/bg/greyerbaby-child-bear-447701.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/greyerbaby-child-bear-447701.jpg" -->
 
 ... the **elements** will be destroyed by **fire** ...
 
@@ -297,7 +297,7 @@ will be **laid bare**.
 + so this world **doesn't matter**?
 
 ---
-<!-- .slide: data-background-image="static/bg/edson-light_road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/edson-light_road.jpg" -->
 
 ... and the earth and everything **done** in it <br/>
 will be **laid bare**.
@@ -315,7 +315,7 @@ will be **laid bare**.
 # which will be **burned** <br/> with the elements?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
 1. Don't assume Continuity <span class="ref">(v3-4)</span>
@@ -346,7 +346,7 @@ where righteousness dwells.
   + actions in **response** to God's holiness
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## Luke 18:7-8 (NIV)
 And will not God bring about <br/>
@@ -368,10 +368,10 @@ will he find **faith** on the earth?
 # Does my **lifestyle** and **reverence** welcome Christ's return?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 When the **Son of Man** comes, <br/>
 will he find **faith** on the earth?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" class="empty" -->
