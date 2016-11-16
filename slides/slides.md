@@ -66,7 +66,7 @@ It is these who cause **divisions**, <br/>
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
 
-## Matthew 24:45-46 (NIV) (p.1/2)
+## Matthew 24:45-46 <span class="ref">(NIV) (p.1/2)</span>
 Who then is the **faithful** and **wise** servant, <br/>
 whom the master has put in **charge** <br/>
 of the servants in his household <br/>
@@ -82,7 +82,7 @@ whose master finds him doing so when he **returns**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
 
-## Matthew 24:48-50 (NIV) (p.2/2)
+## Matthew 24:48-50 <span class="ref">(NIV) (p.2/2)</span>
 But suppose that servant is **wicked** <br/>
 and says to himself, <br/>
 ‘My master is staying away a **long time**,’
@@ -158,7 +158,7 @@ was deluged and destroyed.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wheeler-rainbow.jpg" -->
 
-## Genesis 9:14-15 (NIV)
+## Genesis 9:14-15 <span class="ref">(NIV)</span>
 Whenever [...] the **rainbow** appears in the clouds
 I will remember my **covenant** between me and you [...]
 Never again will the **waters** become a flood
@@ -177,7 +177,7 @@ are reserved for **fire**, being kept for the <br/>
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/elmada-noah_ark.jpg" -->
 
-## 1 Peter 3:20 (NIV) (p.1/2)
+## 1 Peter 3:20 <span class="ref">(NIV) (p.1/2)</span>
 God waited **patiently** in the days of Noah <br/>
 while the **ark** was being built.
 
@@ -192,7 +192,7 @@ Creation Museum, Boone KY.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/elmada-noah_ark.jpg" -->
 
-## 1 Peter 3:21 (NIV) (p.2/2)
+## 1 Peter 3:21 <span class="ref">(NIV) (p.2/2)</span>
 ... and this water symbolizes **baptism** <br/>
 that now saves you also --
 
@@ -241,7 +241,7 @@ but everyone to come to **repentance**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 
-## Ezekiel 33:11 (NIV)
+## Ezekiel 33:11 <span class="ref">(NIV)</span>
 I take **no pleasure** in the death of the wicked, <br/>
 but rather that they **turn** from their ways and **live**.
 
@@ -348,7 +348,7 @@ where righteousness dwells.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
-## Luke 18:7-8 (NIV)
+## Luke 18:7-8 <span class="ref">(NIV)</span>
 And will not God bring about <br/>
 **justice** for his **chosen ones**, <br/>
 who cry out to him day and night? <br/>
