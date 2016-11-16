@@ -16,11 +16,11 @@
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
-1. Don't assume **Continuity** <span class="hl2">(v3-4)</span>
-2. Remember **Creation** + Flood <span class="hl2">(v5-7)</span>
-3. God's patience is **Charity** <span class="hl2">(v8-9)</span>
-4. A **Cataclysm** is Imminent <span class="hl2">(v10)</span>
-5. Anticipate Christ's **Coming** <span class="hl2">(v11-13)</span>
+1. Don't assume **Continuity** <span class="ref">(v3-4)</span>
+2. Remember **Creation** + Flood <span class="ref">(v5-7)</span>
+3. God's patience is **Charity** <span class="ref">(v8-9)</span>
+4. A **Cataclysm** is Imminent <span class="ref">(v10)</span>
+5. Anticipate Christ's **Coming** <span class="ref">(v11-13)</span>
 
 >>>
 Those who assume **continuity** of the world forget about **creation** and <br/> make light of God's **charity**.
@@ -108,11 +108,11 @@ and at an hour he is **not aware** of.
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
-1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
-2. **Remember Creation + Flood** <span class="hl2">(v5-7)</span>
-3. God's patience is *Charity* <span class="hl2">(v8-9)</span>
-4. A *Cataclysm* is Imminent <span class="hl2">(v10)</span>
-5. Anticipate Christ's *Coming* <span class="hl2">(v11-13)</span>
+1. Don't assume Continuity <span class="ref">(v3-4)</span>
+2. **Remember Creation + Flood** <span class="ref">(v5-7)</span>
+3. God's patience is Charity <span class="ref">(v8-9)</span>
+4. A Cataclysm is Imminent <span class="ref">(v10)</span>
+5. Anticipate Christ's Coming <span class="ref">(v11-13)</span>
 
 ---
 
@@ -213,11 +213,11 @@ It saves you by the **resurrection** of Jesus Christ.
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
-1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
-2. Remember *Creation* + Flood <span class="hl2">(v5-7)</span>
-3. **God's patience is Charity** <span class="hl2">(v8-9)</span>
-4. A *Cataclysm* is Imminent <span class="hl2">(v10)</span>
-5. Anticipate Christ's *Coming* <span class="hl2">(v11-13)</span>
+1. Don't assume Continuity <span class="ref">(v3-4)</span>
+2. Remember Creation + Flood <span class="ref">(v5-7)</span>
+3. **God's patience is Charity** <span class="ref">(v8-9)</span>
+4. A Cataclysm is Imminent <span class="ref">(v10)</span>
+5. Anticipate Christ's Coming <span class="ref">(v11-13)</span>
 
 ---
 
@@ -262,11 +262,11 @@ Why will you **die**, people of Israel?
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
-1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
-2. Remember *Creation* + Flood <span class="hl2">(v5-7)</span>
-3. God's patience is *Charity* <span class="hl2">(v8-9)</span>
-4. **A Cataclysm is Imminent** <span class="hl2">(v10)</span>
-5. Anticipate Christ's *Coming* <span class="hl2">(v11-13)</span>
+1. Don't assume Continuity <span class="ref">(v3-4)</span>
+2. Remember Creation + Flood <span class="ref">(v5-7)</span>
+3. God's patience is Charity <span class="ref">(v8-9)</span>
+4. **A Cataclysm is Imminent** <span class="ref">(v10)</span>
+5. Anticipate Christ's Coming <span class="ref">(v11-13)</span>
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -318,11 +318,11 @@ will be **laid bare**.
 <!-- .slide: data-background-image="static/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
 ## 2Pet3: Wake Up!
-1. Don't assume *Continuity* <span class="hl2">(v3-4)</span>
-2. Remember *Creation* + Flood <span class="hl2">(v5-7)</span>
-3. God's patience is *Charity* <span class="hl2">(v8-9)</span>
-4. A *Cataclysm* is Imminent <span class="hl2">(v10)</span>
-5. **Anticipate Christ's Coming** <span class="hl2">(v11-13)</span>
+1. Don't assume Continuity <span class="ref">(v3-4)</span>
+2. Remember Creation + Flood <span class="ref">(v5-7)</span>
+3. God's patience is Charity <span class="ref">(v8-9)</span>
+4. A Cataclysm is Imminent <span class="ref">(v10)</span>
+5. **Anticipate Christ's Coming** <span class="ref">(v11-13)</span>
 
 ---
 
