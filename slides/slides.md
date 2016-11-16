@@ -8,7 +8,7 @@
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # The **end** is near!
-# **So what**?
+# So **what**?
 
 >>>
 
@@ -28,13 +28,15 @@ In view of the imminent **cataclysm**, anticipate Christ's **coming** <br/> by l
 
 ---
 
-## Continuity (v3-4)
+## Continuity <span class="ref">(v3-4)</span>
 Above all, you must understand that <br/>
 in the last days **scoffers** will come, <br/>
 scoffing and following their own **evil desires**.
 
-They will say, “Where is this ‘coming’ he **promised**? <br/>
-Ever since our ancestors died, everything **goes on** <br/>
+They will say, <br/>
+“Where is this ‘coming’ he **promised**? <br/>
+Ever since our ancestors died, <br/>
+everything **goes on** <br/>
 as it has since the **beginning** of creation.”
 
 >>>
@@ -51,7 +53,7 @@ as it has since the **beginning** of creation.”
 + **Legalism** / pride: up to us to save the world
 + **Lusts**: indulge own desires
 [(Jude 18-19)](https://mobile.biblegateway.com/passage/?search=jude18-19)
-+ **Laziness**: when the Master is away
++ **Laziness**: when Master is away
 [(Mt24:45-51)](https://mobile.biblegateway.com/passage/?search=mt24.45-51)
 
 ---
@@ -66,14 +68,15 @@ It is these who cause **divisions**, <br/>
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
 
-## Matthew 24:45-46 <span class="ref">(NIV) (p.1/2)</span>
+## Mat 24:45-46 <span class="ref">(NIV) (p.1/2)</span>
 Who then is the **faithful** and **wise** servant, <br/>
 whom the master has put in **charge** <br/>
 of the servants in his household <br/>
 to give them their **food** at the proper time?
 
 It will be **good** for that servant <br/>
-whose master finds him doing so when he **returns**.
+whose master finds him **doing** so <br/>
+when he **returns**.
 
 <div class="caption">(img:
 [Salomon Koninck, "Parable of the Workers in the Vineyard"](https://commons.wikimedia.org/wiki/File%3ASalomon_Koninck_-_Parable_of_the_Workers_in_the_Vineyard_-_WGA12249.jpg), ~1648.  Hermitage Museum, St. Petersburg
@@ -82,7 +85,7 @@ whose master finds him doing so when he **returns**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
 
-## Matthew 24:48-50 <span class="ref">(NIV) (p.2/2)</span>
+## Mat 24:48-50 <span class="ref">(NIV) (p.2/2)</span>
 But suppose that servant is **wicked** <br/>
 and says to himself, <br/>
 ‘My master is staying away a **long time**,’
@@ -116,17 +119,13 @@ and at an hour he is **not aware** of.
 
 ---
 
-## Creation + Flood (v5-7)
-But they **deliberately forget** that long ago <br/>
-by God’s word the **heavens** came into **being** <br/>
-and the **earth** was **formed** out of water and by water.
+## Creation + Flood <span class="ref">(v5-7)</span>
+But they **deliberately forget** <br/>
+that long ago by **God’s word**
 
-By these waters also the **world of that time** <br/>
-was deluged and destroyed.
-
-By the same word the **present heavens and earth** <br/>
-are reserved for **fire**, being kept for the <br/>
-**day of judgment** and destruction of the ungodly.
+the **heavens** came into **being** <br/>
+and the **earth** was **formed** <br/>
+out of **water** and by water.
 
 >>>
 + stays **hidden** from them, as they **intend**
@@ -134,8 +133,10 @@ are reserved for **fire**, being kept for the <br/>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/earth.jpg" -->
+<span class="ref">5</span>
 By God’s word the **heavens** came into **being** <br/>
-and the **earth** was **formed** out of water and by water.
+and the **earth** was **formed** <br/>
+out of water and by water.
 
 >>>
 + heavens being (impf): **sustained**
@@ -144,6 +145,7 @@ and the **earth** was **formed** out of water and by water.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
+<span class="ref">6</span>
 By these waters also the **world of that time** <br/>
 was deluged and destroyed.
 
@@ -159,10 +161,14 @@ was deluged and destroyed.
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wheeler-rainbow.jpg" -->
 
 ## Genesis 9:14-15 <span class="ref">(NIV)</span>
-Whenever [...] the **rainbow** appears in the clouds
-I will remember my **covenant** between me and you [...]
-Never again will the **waters** become a flood
-to destroy all life.
+Whenever ... <br/>
+the **rainbow** appears in the clouds,
+
+I will remember my **covenant** <br/>
+between me and you ...
+
+Never again will the **waters** <br/>
+become a flood to destroy all life.
 
 <div class="caption">(
 [img &copy; James Wheeler](http://www.souvenirpixels.com/photo-blog/double-rainbow), CC BY-NC-SA 3.0
@@ -170,9 +176,13 @@ to destroy all life.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NuE8Nu3otjo-aurora.jpg" -->
-By the same word the **present heavens and earth** <br/>
-are reserved for **fire**, being kept for the <br/>
-**day of judgment** and destruction of the ungodly.
+<span class="ref">7</span>
+By the same word <br/>
+the **present** heavens and earth
+
+are reserved for **fire**, <br/>
+being kept for the **day of judgment** <br/>
+and destruction of the ungodly.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/elmada-noah_ark.jpg" -->
@@ -197,7 +207,8 @@ Creation Museum, Boone KY.
 that now saves you also --
 
 not the removal of **dirt** from the body <br/>
-but the pledge of a clear **conscience** toward God.
+but the pledge of a clear **conscience** <br/>
+toward God.
 
 It saves you by the **resurrection** of Jesus Christ.
 
@@ -243,7 +254,8 @@ but everyone to come to **repentance**.
 
 ## Ezekiel 33:11 <span class="ref">(NIV)</span>
 I take **no pleasure** in the death of the wicked, <br/>
-but rather that they **turn** from their ways and **live**.
+but rather that they <br/>
+**turn** from their ways and **live**.
 
 **Turn!** Turn from your evil ways! <br/>
 Why will you **die**, people of Israel?
@@ -254,8 +266,8 @@ Why will you **die**, people of Israel?
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## If it is only God's **patience** <br/> toward the **not-yet-repentant**
-## that **holds back** the judgment,
+## If it is only God's **patience** <br/> to the **not-yet-repentant**
+## that **holds back** <br/> the judgment,
 ## how does that change <br/> how I **view** them?
 
 ---
@@ -311,8 +323,11 @@ will be **laid bare**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What in this world <br/> do I **hold onto**
-# which will be **burned** <br/> with the elements?
+# What am I
+# **holding onto**
+# which will
+# be **burned** with
+# the elements?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
@@ -326,16 +341,13 @@ will be **laid bare**.
 
 ---
 
-## Coming (v11-13)
+## Coming <span class="ref">(v11-13)</span>
 Since everything will be destroyed in this way, <br/>
 what **kind of people** ought you to be?
 
 You ought to live **holy** and **godly** lives as you <br/>
-**look forward** to the day of God and **speed** its coming.
-
-[...] In keeping with his **promise** we are <br/>
-looking forward to a **new heaven** and a **new earth**, <br/>
-where righteousness dwells.
+**look forward** to the day of God <br/>
+and **speed** its coming.
 
 >>>
 + look forward: welcome, anticipate, think forward
@@ -344,6 +356,13 @@ where righteousness dwells.
 + **holy**: set apart, dedicated, not mixed
 + godly: **reverent**, pious
   + actions in **response** to God's holiness
+
+---
+<span class="ref">13</span>
+In keeping with his **promise** <br/>
+we are looking forward to <br/>
+a **new heaven** and a **new earth**, <br/>
+where righteousness dwells.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
@@ -365,7 +384,8 @@ will he find **faith** on the earth?
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Does my **lifestyle** and **reverence** welcome Christ's return?
+# Does my **lifestyle** and **reverence** welcome
+# Christ's return?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
