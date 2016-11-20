@@ -71,15 +71,15 @@ It is these who cause **divisions**, <br/>
 ## Mat 24:45-46 <span class="ref">(NIV) (p.1/2)</span>
 Who then is the **faithful** and **wise** servant, <br/>
 whom the master has put in **charge** <br/>
-of the servants in his household <br/>
-to give them their **food** at the proper time?
+of the servants in his household ... ?
 
 It will be **good** for that servant <br/>
 whose master finds him **doing** so <br/>
 when he **returns**.
 
 <div class="caption">img:
-[Salomon Koninck, "Parable of the Workers in the Vineyard"](https://commons.wikimedia.org/wiki/File%3ASalomon_Koninck_-_Parable_of_the_Workers_in_the_Vineyard_-_WGA12249.jpg), 1648. Hermitage Museum, St. Petersburg
+[Salomon Koninck, "Parable of the Workers in the Vineyard"](https://commons.wikimedia.org/wiki/File%3ASalomon_Koninck_-_Parable_of_the_Workers_in_the_Vineyard_-_WGA12249.jpg), 1648.
+<br/>Hermitage Museum, St. Petersburg
 </div>
 
 ---
@@ -358,6 +358,7 @@ and **speed** its coming.
   + actions in **response** to God's holiness
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
 <span class="ref">13</span>
 In keeping with his **promise** <br/>
 we are looking forward to <br/>
