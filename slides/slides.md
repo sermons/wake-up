@@ -27,7 +27,7 @@ Those who assume **continuity** of the world forget about **creation** and <br/>
 In view of the imminent **cataclysm**, anticipate Christ's **coming** <br/> by living holy and reverent lives.
 
 ---
-
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
 ## Continuity <span class="ref">(v3-4)</span>
 Above all, you must understand that <br/>
 in the last days **scoffers** will come, <br/>
@@ -267,6 +267,12 @@ Why will you **die**, people of Israel?
 [&copy; 2010 @bigbirdz](https://www.flickr.com/photos/bigbirdz/5024081279), CC BY 2.0
 )</div>
 
+>>>
++ Ezekiel as **watchman**:
++ if **warn**, they die for **own** sins
++ if **don't** warn, they die for own sins
+  + but **blood** on your head
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
 ## If it is only God's **patience** <br/> to the **not-yet-repentant**
@@ -326,8 +332,7 @@ will be **laid bare**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What am I <br/> **holding onto**
-# which will be <br/> **burned** with <br/> the elements?
+# What am I <br/> **holding onto** <br/> which will be <br/> **burned** with <br/> the elements?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
