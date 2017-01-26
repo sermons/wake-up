@@ -9,7 +9,12 @@
 </div></div>
 
 >>>
-Speaker notes go here.
++ Speaker notes go here.
++ Markdown is supported.
+
+______
+
+Six underscores create a horizontal rule in the notes
 
 ---
 <!-- .slide: data-background="white" -->
@@ -59,6 +64,19 @@ class BST:
 ---
 ## Point Two
 
+<div class="imgbox">
+<div>
+Yay for multi-column layouts!
+
+One-third width for text.
+
+Within the HTML div, Markdown **bold** is ok, but not lists.
+</div>
+<div style="flex:2; -webkit-box-flex:0.5">
+![Stars](static/bg/unsplash-Jztmx9yqjBw-stars.jpg)
+</div>
+</div>
+
 ---
 <!-- .slide: data-background="white" -->
 # Review question for Point **Two**
@@ -72,6 +90,14 @@ class BST:
 
 ---
 ## Point Three
+
+| ID |     Date    | Intensity | Diffusion |
+|---:|:-----------:|----------:|----------:|
+| 23 | 2017 Jan  3 |    17.3   |   0.238   |
+| 83 | 2017 Feb  5 |    87.2   |   0.022   |
+| 39 | 2017 Mar  1 |   219.0   |   0.912   |
+| 12 | 2017 Apr  2 |     5.2   |   0.465   |
+| 65 | 2017 May  2 |  1022.6   |   0.663   |
 
 ---
 <!-- .slide: data-background="white" -->
