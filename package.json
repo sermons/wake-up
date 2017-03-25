@@ -1,9 +1,9 @@
 {
   "name": "@sermons/wake-up",
-  "version": "1.2.1",
   "repository": "sermons/wake-up",
   "description": "Wake Up! 2Pet3:3-13",
   "keywords": ["slides", "sermons", "talks", "ppt"],
+  "version": "1.2.4",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "wake-up.seanho.com",
@@ -54,10 +54,10 @@
         "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
        	"integrity": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
       },{
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.4.0/css/reveal.min.css",
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.4.1/css/reveal.min.css",
        	"integrity": "sha256-5z1tvl5q2pgp1SJIkfLhpdE5JfcAAN1FDBQe3YzlUdg="
       },{
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/atom-one-dark.min.css",
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/atom-one-dark.min.css",
        	"integrity": "sha256-akwTLZec/XAFvgYgVH1T5/369lhA2Efr22xzCNl1nHs="
       }
     ],
@@ -66,8 +66,8 @@
         "src": "https://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.min.js",
        	"integrity": "sha256-+09kLhwACKXFPDvqo4xMMvi4+uXFsRZ2uYGbeN1U8sI="
       },{
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.4.0/js/reveal.min.js",
-       	"integrity": "sha256-6fVxI8+E4Jn6awOT5yjQNSIwSqD8eIzDjTalXKrzwzI="
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.4.1/js/reveal.min.js",
+       	"integrity": "sha256-iSS1lZpXv81SOmVH9u7LxPptbmNmVc40zG/1R2cKUbk="
       }
     ]
   },
@@ -83,7 +83,7 @@
     "grunt-build-control": "^0.7.1",
     "grunt-coffeelint": "^0.0.16",
     "coffeelint": "^1.16.0",
-    "phantom": "^4.0.0"
+    "phantom": "^4.0.1"
   },
   "scripts": {
     "test": "grunt test",
