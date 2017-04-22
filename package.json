@@ -1,9 +1,9 @@
 {
   "name": "@sermons/wake-up",
   "repository": "sermons/wake-up",
-  "description": "Wake Up! 2Pet3:3-13",
+  "description": "2Pet3:3-13 Wake Up!",
   "keywords": ["slides", "sermons", "talks", "ppt"],
-  "version": "1.2.4",
+  "version": "1.2.5",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "wake-up.seanho.com",
