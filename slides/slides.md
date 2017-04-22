@@ -3,7 +3,6 @@
 ## 2 Peter 3:3-13
 
 >>>
-[wake-up](http://wake-up.seanho.com/)
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -23,8 +22,12 @@
 5. Anticipate Christ's **Coming** <span class="ref">(v11-13)</span>
 
 >>>
-Those who assume **continuity** of the world forget about **creation** and <br/> make light of God's **charity**.
-In view of the imminent **cataclysm**, anticipate Christ's **coming** <br/> by living holy and reverent lives.
++ Those who assume **continuity** of the world
++ forget about **creation** and
++ make light of God's **charity**.
++ In view of the imminent **cataclysm**,
++ anticipate Christ's **coming** <br/>
+  by living holy and reverent lives.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
@@ -53,22 +56,26 @@ as it has since the **beginning** of creation.”
 + **Legalism** / pride: up to us to save the world
 + **Lusts**: indulge own desires
 [(Jude 18-19)](https://mobile.biblegateway.com/passage/?search=jude18-19)
+<!-- .element: class="ref" -->
 + **Laziness**: when Master is away
 [(Mt24:45-51)](https://mobile.biblegateway.com/passage/?search=mt24.45-51)
+<!-- .element: class="ref" -->
 
 ---
 
-## Jude 1:18-19 <span class="ref">(ESV)</span>
 In the last time there will be **scoffers**, <br/>
 following their own ungodly **passions**.
 
 It is these who cause **divisions**, <br/>
 **worldly** people, devoid of the **Spirit**.
 
+<div class="ref">
+Jude 1:18-19 (ESV)
+</div>
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
 
-## Mat 24:45-46 <span class="ref">(NIV) (p.1/2)</span>
 Who then is the **faithful** and **wise** servant, <br/>
 whom the master has put in **charge** <br/>
 of the servants in his household ... ?
@@ -76,6 +83,10 @@ of the servants in his household ... ?
 It will be **good** for that servant <br/>
 whose master finds him **doing** so <br/>
 when he **returns**.
+
+<div class="ref">
+Matthew 24:45-46 (NIV) (p.1/2)
+</div>
 
 <div class="caption">img:
 [Salomon Koninck, "Parable of the Workers in the Vineyard"](https://commons.wikimedia.org/wiki/File%3ASalomon_Koninck_-_Parable_of_the_Workers_in_the_Vineyard_-_WGA12249.jpg), 1648.
@@ -85,7 +96,6 @@ when he **returns**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
 
-## Mat 24:48-50 <span class="ref">(NIV) (p.2/2)</span>
 But suppose that servant is **wicked** <br/>
 and says to himself, <br/>
 ‘My master is staying away a **long time**,’
@@ -96,6 +106,10 @@ and to **eat** and **drink** with drunkards.
 The master of that servant will come <br/>
 on a day when he **does not expect** him <br/>
 and at an hour he is **not aware** of.
+
+<div class="ref">
+Matthew 24:48-50 (NIV) (p.2/2)
+</div>
 
 >>>
 + cut him to **pieces**
@@ -162,7 +176,6 @@ was deluged and destroyed.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wheeler-rainbow.jpg" -->
 
-## Genesis 9:14-15 <span class="ref">(NIV)</span>
 Whenever ... <br/>
 the **rainbow** appears in the clouds,
 
@@ -171,6 +184,10 @@ between me and you ...
 
 Never again will the **waters** <br/>
 become a flood to destroy all life.
+
+<div class="ref">
+Genesis 9:14-15 (NIV)
+</div>
 
 <div class="caption">(
 [img &copy; James Wheeler](http://www.souvenirpixels.com/photo-blog/double-rainbow), CC BY-NC-SA 3.0
@@ -189,12 +206,15 @@ and destruction of the ungodly.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/elmada-noah_ark.jpg" -->
 
-## 1 Peter 3:20 <span class="ref">(NIV) (p.1/2)</span>
 God waited **patiently** in the days of Noah <br/>
 while the **ark** was being built.
 
 In it only a few people, **eight** in all, <br/>
 were saved through **water** ...
+
+<div class="ref">
+1 Peter 3:20 (NIV) (p.1/2)
+</div>
 
 <div class="caption">(
 Creation Museum, Boone KY.
@@ -204,7 +224,6 @@ Creation Museum, Boone KY.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/elmada-noah_ark.jpg" -->
 
-## 1 Peter 3:21 <span class="ref">(NIV) (p.2/2)</span>
 ... and this water symbolizes **baptism** <br/>
 that now saves you also --
 
@@ -213,6 +232,10 @@ but the pledge of a clear **conscience** <br/>
 toward God.
 
 It saves you by the **resurrection** of Jesus Christ.
+
+<div class="ref">
+1 Peter 3:21 (NIV) (p.2/2)
+</div>
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -255,13 +278,16 @@ but everyone to come to **repentance**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 
-## Ezekiel 33:11 <span class="ref">(NIV)</span>
 I take **no pleasure** in the death of the wicked, <br/>
 but rather that they <br/>
 **turn** from their ways and **live**.
 
 **Turn!** Turn from your evil ways! <br/>
 Why will you **die**, people of Israel?
+
+<div class="ref">
+Ezekiel 33:11 (NIV)
+</div>
 
 <div class="caption">(img:
 [&copy; 2010 @bigbirdz](https://www.flickr.com/photos/bigbirdz/5024081279), CC BY 2.0
@@ -373,7 +399,6 @@ where righteousness dwells.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
-## Luke 18:7-8 <span class="ref">(NIV)</span>
 And will not God bring about <br/>
 **justice** for his **chosen ones**, <br/>
 who cry out to him day and night? <br/>
@@ -385,6 +410,9 @@ they get **justice**, and **quickly**.
 However, when the **Son of Man** comes, <br/>
 will he find **faith** on the earth?
 
+<div class="ref">
+Luke 18:7-8 (NIV)
+</div>
 >>>
 + persistent widow
 
