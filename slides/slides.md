@@ -118,10 +118,8 @@ Matthew 24:48-50 (NIV) (p.2/2)
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## Have I succumbed to
-## **legalism**, **lust**, or **laziness**
-## by neglecting the **imminence**
-## of Christ's return?
+## Have I succumbed to <br/> **legalism**, **lust**, or **laziness**
+## by neglecting the **imminence** <br/> of Christ's return?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
@@ -151,8 +149,7 @@ out of **water** and by water.
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/earth.jpg" -->
 <span class="ref">5</span>
 By God’s word the **heavens** came into **being** <br/>
-and the **earth** was **formed** <br/>
-out of water and by water.
+and the **earth** was **formed**
 
 >>>
 + heavens being (impf): **sustained**
@@ -344,7 +341,7 @@ will be **laid bare**.
 + so this world **doesn't matter**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/edson-light_road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pexels-16013-edson-light_road.jpg" -->
 
 ... and the earth and everything **done** in it <br/>
 will be **laid bare**.
@@ -404,6 +401,16 @@ And will not God bring about <br/>
 who cry out to him day and night? <br/>
 Will he keep **putting them off**?
 
+<div class="ref">
+Luke 18:7 (NIV) (p.1/2)
+</div>
+
+>>>
++ persistent widow
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+
 I tell you, he will see that <br/>
 they get **justice**, and **quickly**.
 
@@ -411,10 +418,8 @@ However, when the **Son of Man** comes, <br/>
 will he find **faith** on the earth?
 
 <div class="ref">
-Luke 18:7-8 (NIV)
+Luke 18:8 (NIV) (p.2/2)
 </div>
->>>
-+ persistent widow
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
