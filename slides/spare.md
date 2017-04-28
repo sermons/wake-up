@@ -68,6 +68,40 @@ looking forward to a new heaven and a new earth, <br/>
 where righteousness dwells.
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/elmada-noah_ark.jpg" -->
+
+God waited **patiently** in the days of Noah <br/>
+while the **ark** was being built.
+
+In it only a few people, **eight** in all, <br/>
+were saved through **water** ...
+
+<div class="ref">
+1 Peter 3:20 (NIV) (p.1/2)
+</div>
+
+<div class="caption">(
+Creation Museum, Boone KY.
+[img &copy; 2007 Adam Lederer](https://www.flickr.com/photos/elmada/684442050), CC BY-NC-SA 2.0
+)</div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/elmada-noah_ark.jpg" -->
+
+... and this water symbolizes **baptism** <br/>
+that now saves you also --
+
+not the removal of **dirt** from the body <br/>
+but the pledge of a clear **conscience** <br/>
+toward God.
+
+It saves you by the **resurrection** of Jesus Christ.
+
+<div class="ref">
+1 Peter 3:21 (NIV) (p.2/2)
+</div>
+
+---
 <!-- .slide: data-background-image="static/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
 
 ## Ephesians 4:1-2 (ESV)
