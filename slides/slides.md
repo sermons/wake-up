@@ -9,10 +9,117 @@
 # The **end** is near!
 # So **what**?
 
+[###](#/outline)
+<!-- .element: style="color:rgba(0,0,0,0.2)" -->
+
 >>>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<span class="ref">3</span>
+Above all, you must understand that <br/>
+in the last days **scoffers** will come, <br/>
+scoffing and following their own **evil desires**.
+
+<span class="ref">4</span>
+They will say, <br/>
+“Where is this ‘coming’ he **promised**? <br/>
+Ever since our ancestors died, <br/>
+everything **goes on** <br/>
+as it has since the **beginning** of creation.”
+
+<div class="ref">
+2 Peter 3:3-4 (NIV) (p.1/7)
+</div>
+
+---
+<span class="ref">5</span>
+But they **deliberately forget** <br/>
+that long ago by **God’s word**
+
+the **heavens** came into **being** <br/>
+and the **earth** was **formed** <br/>
+out of **water** and by water.
+
+<div class="ref">
+2 Peter 3:5 (NIV) (p.2/7)
+</div>
+
+---
+<span class="ref">6</span>
+By these waters also the **world of that time** <br/>
+was deluged and destroyed.
+
+<span class="ref">7</span>
+By the same word <br/>
+the **present** heavens and earth
+
+are reserved for **fire**, <br/>
+being kept for the **day of judgment** <br/>
+and destruction of the ungodly.
+
+<div class="ref">
+2 Peter 3:6-7 (NIV) (p.3/7)
+</div>
+
+---
+<span class="ref">8</span>
+But do not **forget** this one thing, dear friends: <br/>
+With the Lord a **day** is like a **thousand years**, <br/>
+and a thousand years are like a day.
+
+<span class="ref">9</span>
+The Lord is not **slow** in keeping his promise, <br/>
+as some understand slowness.
+
+Instead he is **patient** with you, <br/>
+not wanting anyone to **perish**, <br/>
+but everyone to come to **repentance**.
+
+<div class="ref">
+2 Peter 3:8-9 (NIV) (p.4/7)
+</div>
+
+---
+<span class="ref">10</span>
+But the day of the Lord will come like a **thief**.
+
+The **heavens** will disappear with a **roar**; <br/>
+the **elements** will be destroyed by **fire**,
+
+and the earth and everything **done** in it <br/>
+will be **laid bare**.
+
+<div class="ref">
+2 Peter 3:10 (NIV) (p.5/7)
+</div>
+
+---
+<span class="ref">11</span>
+Since everything will be destroyed in this way, <br/>
+what **kind of people** ought you to be?
+
+<span class="ref">12</span>
+You ought to live **holy** and **godly** lives as you <br/>
+**look forward** to the day of God <br/>
+and **speed** its coming.
+
+<div class="ref">
+2 Peter 3:11-12 (NIV) (p.6/7)
+</div>
+
+---
+<span class="ref">13</span>
+In keeping with his **promise** <br/>
+we are looking forward to <br/>
+a **new heaven** and a **new earth**, <br/>
+where righteousness dwells.
+
+<div class="ref">
+2 Peter 3:13 (NIV) (p.7/7)
+</div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" id="outline" -->
 
 ## 2Pet3: Wake Up!
 1. Don't assume **Continuity** <span class="ref">(v3-4)</span>
