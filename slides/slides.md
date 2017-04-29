@@ -31,11 +31,17 @@
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
-## Continuity <span class="ref">(v3-4)</span>
+<span class="ref">3</span>
 Above all, you must understand that <br/>
 in the last days **scoffers** will come, <br/>
 scoffing and following their own **evil desires**.
 
+>>>
++ scoff: child play, dance, scorn, deride
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
+<span class="ref">4</span>
 They will say, <br/>
 “Where is this ‘coming’ he **promised**? <br/>
 Ever since our ancestors died, <br/>
@@ -43,10 +49,9 @@ everything **goes on** <br/>
 as it has since the **beginning** of creation.”
 
 >>>
-+ scoff: child play, dance, scorn, deride
 + goes on, beginning: then &rarr; now
-  + blind watchmaker (Dawkins)
-  + created &rarr; sustained
++ blind watchmaker (Dawkins)
++ created &rarr; sustained
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-URmkfvtK3Qw-freeway.jpg" -->
@@ -133,7 +138,7 @@ Matthew 24:48-50 (NIV) (p.2/2)
 
 ---
 
-## Creation + Flood <span class="ref">(v5-7)</span>
+<span class="ref">5</span>
 But they **deliberately forget** <br/>
 that long ago by **God’s word**
 
@@ -221,11 +226,12 @@ and destruction of the ungodly.
 
 ---
 
-## Charity (v8-9)
+<span class="ref">8</span>
 But do not **forget** this one thing, dear friends: <br/>
 With the Lord a **day** is like a **thousand years**, <br/>
 and a thousand years are like a day.
 
+<span class="ref">9</span>
 The Lord is not **slow** in keeping his promise, <br/>
 as some understand slowness.
 
@@ -281,7 +287,7 @@ Ezekiel 33:11 (NIV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 
-## Cataclysm (v10)
+<span class="ref">10</span>
 But the day of the Lord will come like a **thief**.
 
 The **heavens** will disappear with a **roar**; <br/>
@@ -335,10 +341,11 @@ will be **laid bare**.
 
 ---
 
-## Coming <span class="ref">(v11-13)</span>
+<span class="ref">11</span>
 Since everything will be destroyed in this way, <br/>
 what **kind of people** ought you to be?
 
+<span class="ref">12</span>
 You ought to live **holy** and **godly** lives as you <br/>
 **look forward** to the day of God <br/>
 and **speed** its coming.
