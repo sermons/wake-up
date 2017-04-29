@@ -67,6 +67,7 @@ as it has since the **beginning** of creation.”
 <!-- .element: class="ref" -->
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cgPxN5Y27pA-cathedral.jpg" -->
 
 In the last time there will be **scoffers**, <br/>
 following their own ungodly **passions**.
@@ -90,7 +91,7 @@ whose master finds him **doing** so <br/>
 when he **returns**.
 
 <div class="ref">
-Matthew 24:45-46 (NIV) (p.1/2)
+Matthew 24:45-46 (NIV) (p.1/3)
 </div>
 
 <div class="caption">img:
@@ -108,12 +109,19 @@ and says to himself, <br/>
 and he then begins to **beat** his fellow servants <br/>
 and to **eat** and **drink** with drunkards.
 
+<div class="ref">
+Matthew 24:48-49 (NIV) (p.2/3)
+</div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
+
 The master of that servant will come <br/>
 on a day when he **does not expect** him <br/>
 and at an hour he is **not aware** of.
 
 <div class="ref">
-Matthew 24:48-50 (NIV) (p.2/2)
+Matthew 24:50 (NIV) (p.3/3)
 </div>
 
 >>>
@@ -137,6 +145,7 @@ Matthew 24:48-50 (NIV) (p.2/2)
 5. Anticipate Christ's Coming <span class="ref">(v11-13)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
 
 <span class="ref">5</span>
 But they **deliberately forget** <br/>
@@ -225,11 +234,15 @@ and destruction of the ungodly.
 5. Anticipate Christ's Coming <span class="ref">(v11-13)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/eso9845d-spiral_galaxy_NGC1232.jpg" -->
 
 <span class="ref">8</span>
 But do not **forget** this one thing, dear friends: <br/>
 With the Lord a **day** is like a **thousand years**, <br/>
 and a thousand years are like a day.
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/eso9845d-spiral_galaxy_NGC1232.jpg" -->
 
 <span class="ref">9</span>
 The Lord is not **slow** in keeping his promise, <br/>
@@ -340,6 +353,7 @@ will be **laid bare**.
 5. **Anticipate Christ's Coming** <span class="ref">(v11-13)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 
 <span class="ref">11</span>
 Since everything will be destroyed in this way, <br/>
