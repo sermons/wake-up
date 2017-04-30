@@ -95,12 +95,12 @@ will be **laid bare**.
 
 ---
 <span class="ref">11</span>
-Since everything will be destroyed in this way, <br/>
+Since everything will be destroyed <br/> in this way, <br/>
 what **kind of people** ought you to be?
 
 <span class="ref">12</span>
-You ought to live **holy** and **godly** lives as you <br/>
-**look forward** to the day of God <br/>
+You ought to live **holy** and **godly** lives <br/>
+as you **look forward** to the day of God <br/>
 and **speed** its coming.
 
 <div class="ref">
@@ -463,12 +463,12 @@ will be **laid bare**.
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 
 <span class="ref">11</span>
-Since everything will be destroyed in this way, <br/>
+Since everything will be destroyed <br/> in this way, <br/>
 what **kind of people** ought you to be?
 
 <span class="ref">12</span>
-You ought to live **holy** and **godly** lives as you <br/>
-**look forward** to the day of God <br/>
+You ought to live **holy** and **godly** lives <br/>
+as you **look forward** to the day of God <br/>
 and **speed** its coming.
 
 >>>
@@ -517,7 +517,7 @@ Luke 18:8 (NIV) (p.2/2)
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Does my **lifestyle** and **reverence**
+# Do my **lifestyle** and **reverence**
 # welcome <br/> Christ's return?
 
 ---
