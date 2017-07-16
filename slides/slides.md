@@ -13,6 +13,11 @@
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
 
 >>>
++ sure, I **know** Christ will return, but
++ it's **far off**, probably not in my lifetime
++ I can't **do** anything abt it
++ still have my **life**, family, job, school
++ &rArr; how does it **affect** me?
 
 ---
 <span class="ref">3</span>
@@ -129,12 +134,21 @@ where righteousness dwells.
 5. Anticipate Christ's **Coming** <span class="ref">(v11-13)</span>
 
 >>>
-+ Those who assume **continuity** of the world
++ Those who assume **continuity** of world
 + forget about **creation** and
 + make light of God's **charity**.
 + In view of the imminent **cataclysm**,
 + anticipate Christ's **coming** <br/>
   by living holy and reverent lives.
+
+______
+
++ our idea of present **schema**
+  + is aff by view of world **history**
+  + infl think of God's **charac**
+  + urgency + severity of **judg**
+  + **life** in this world reflects
+    + **hope** + **fear** for next
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
@@ -144,7 +158,11 @@ in the last days **scoffers** will come, <br/>
 scoffing and following their own **evil desires**.
 
 >>>
-+ scoff: child play, dance, scorn, deride
++ **scoff**: child play, dance, scorn, deride
+  + e.g., abusing ants
++ assumed **superiority**: knowledge/science
+  + enlight, liberalism/tolerance
++ but actually: own **lusts**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
@@ -156,9 +174,13 @@ everything **goes on** <br/>
 as it has since the **beginning** of creation.”
 
 >>>
-+ goes on, beginning: then &rarr; now
-+ blind watchmaker (Dawkins)
-+ created &rarr; sustained
++ goes on, beginning: **then** &rarr; **now**
+  + but: **created** &rarr; **sustains**
++ **Absent** Creator: made world and walked off
++ don't **need** God: doing fine w/o Him
++ don't **want** God: left world to rot
+  + God **ignorant**, **weak**, or **cruel**:
+  + doubt **wisdom**, **power**, + **love**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-URmkfvtK3Qw-freeway.jpg" -->
@@ -173,6 +195,16 @@ as it has since the **beginning** of creation.”
 [(Mt24:45-51)](https://mobile.biblegateway.com/passage/?search=mt24.45-51)
 <!-- .element: class="ref" -->
 
+>>>
++ if assume "everything **goes on**"
+  + as it has since **beginning**
++ 3 **pitfalls** we slide into:
++ God is **not** going to save world
+  + so **my actions** will
+  + e.g., composting
+  + pride: are **you** helping?
++ 2nd: "**scoffers**" also in Jude:
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cgPxN5Y27pA-cathedral.jpg" -->
 
@@ -185,6 +217,19 @@ It is these who cause **divisions**, <br/>
 <div class="ref">
 Jude 1:18-19 (ESV)
 </div>
+
+>>>
++ if assume **continuity**:
++ no **accountability** to Creator
++ scoff: believing self **superior**
++ led not by logic but **lust**
+  + eyes, flesh, pride
++ **divide** not by God's truth
+  + but own legalistic rules
++ follow rules of **this world**
+  + not God's kingdom
++ unable to perceive **mind of Christ**
++ 3rd pitfall: **laziness**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
@@ -206,6 +251,10 @@ Matthew 24:45-46 (NIV) (p.1/3)
 <br/>Hermitage Museum, St. Petersburg
 </div>
 
+>>>
++ while Master is **away**
++ He gave us **work** to do
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
 
@@ -219,6 +268,10 @@ and to **eat** and **drink** with drunkards.
 <div class="ref">
 Matthew 24:48-49 (NIV) (p.2/3)
 </div>
+
+>>>
++ abuse **authority**
++ **consume** others instead of **serving**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Koninck-Parable_Vineyard.jpg" -->
@@ -241,6 +294,9 @@ Matthew 24:50 (NIV) (p.3/3)
 ## Have I succumbed to <br/> **legalism**, **lust**, or **laziness**
 ## by neglecting the **imminence** <br/> of Christ's return?
 
+>>>
++ affects our life **right now**
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 
@@ -250,6 +306,10 @@ Matthew 24:50 (NIV) (p.3/3)
 3. God's patience is Charity <span class="ref">(v8-9)</span>
 4. A Cataclysm is Imminent <span class="ref">(v10)</span>
 5. Anticipate Christ's Coming <span class="ref">(v11-13)</span>
+
+>>>
++ to correct our thinking about present **schema** of world,
++ look to **history**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
@@ -311,6 +371,9 @@ Genesis 9:14-15 (NIV)
 [img &copy; James Wheeler](http://www.souvenirpixels.com/photo-blog/double-rainbow), CC BY-NC-SA 3.0
 )</div>
 
+>>>
++ never again by **water**, but by ...
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NuE8Nu3otjo-aurora.jpg" -->
 <span class="ref">7</span>
@@ -320,6 +383,10 @@ the **present** heavens and earth
 are reserved for **fire**, <br/>
 being kept for the **day of judgment** <br/>
 and destruction of the ungodly.
+
+>>>
++ in Noah's time, kept eating + drinking
++ right up until day Noah entered ark
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
