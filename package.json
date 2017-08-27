@@ -8,7 +8,7 @@
     "talks",
     "ppt"
   ],
-  "version": "1.4.2",
+  "version": "1.5.1",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "wake-up.seanho.com",
@@ -82,6 +82,10 @@
     ],
     "js": [
       {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js",
+        "integrity": "sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw="
+      },
+      {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.min.js",
         "integrity": "sha256-+09kLhwACKXFPDvqo4xMMvi4+uXFsRZ2uYGbeN1U8sI="
       },
@@ -98,12 +102,13 @@
     "grunt-contrib-connect": "^1.0.2",
     "grunt-contrib-copy": "^1.0.0",
     "load-grunt-tasks": "^3.5.2",
-    "grunt-exec": "^2.0.0",
+    "grunt-exec": "^3.0.0",
     "grunt-curl": "^2.2.1",
     "grunt-build-control": "^0.7.1",
     "grunt-coffeelint": "^0.0.16",
     "coffeelint": "^1.16.0",
-    "grunt-git": "^1.0.4"
+    "grunt-git": "^1.0.5",
+    "decktape": "^2.0.2"
   },
   "scripts": {
     "postinstall": "grunt install",
