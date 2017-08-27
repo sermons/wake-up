@@ -1,5 +1,5 @@
 # Wake Up!
-## 2 Peter 3:3-13
+## 2 Peter 3:3-12
 
 [![Travis-CI build status](https://travis-ci.org/sermons/wake-up.svg)](https://travis-ci.org/sermons/wake-up)
 [![Node dependencies](https://david-dm.org/sermons/wake-up.svg)](https://david-dm.org/sermons/wake-up)
