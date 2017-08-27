@@ -430,6 +430,7 @@ but everyone to come to **repentance**.
 + God remembers flood like yesterday
 + *slow*: delay, dull, inactive
 + not **procrastination** but **patience**
++ v15 count **patience** of Lord as **salvation**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
@@ -553,6 +554,9 @@ In keeping with his **promise** <br/>
 we are looking forward to <br/>
 a **new heaven** and a **new earth**, <br/>
 where righteousness dwells.
+
+>>>
++ v14 be diligent to be found by him without spot or blemish, and at peace
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
