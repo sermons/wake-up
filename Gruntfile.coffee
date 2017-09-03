@@ -24,6 +24,7 @@ module.exports = (grunt) ->
     exec:
       print: 'decktape -s 1024x768 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf; true'
       thumbnail: 'decktape -s 1024x768 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/thumbnail.jpg; true'
+      inline: 'inliner http://localhost:9000/ > inline.html'
 
     copy:
       index:
@@ -38,6 +39,7 @@ module.exports = (grunt) ->
           src: [
             'static/**'
             'index.html'
+            'inline.html'
             'CNAME'
             '.nojekyll'
           ]
@@ -99,7 +101,7 @@ module.exports = (grunt) ->
     ]
 
   grunt.registerTask 'pdf',
-    'Render a **PDF** copy of the presentation (using PhantomJS)', [
+    'Render a **PDF** copy of the presentation (using decktape)', [
       'serve'
       'exec:print'
       'exec:thumbnail'
@@ -109,6 +111,7 @@ module.exports = (grunt) ->
     '*Test* rendering to PDF', [
       'coffeelint'
       'pdf'
+      'exec:inline'
     ]
 
   grunt.registerTask 'dist',
