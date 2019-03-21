@@ -214,10 +214,7 @@ when he **returns**.
 
 [Matthew 24:45-46 (NIV) (p.1/3)](# "ref")
 
-<div class="caption">img:
-[Salomon Koninck, "Parable of the Workers in the Vineyard"](https://commons.wikimedia.org/wiki/File%3ASalomon_Koninck_-_Parable_of_the_Workers_in_the_Vineyard_-_WGA12249.jpg), 1648.
-<br/>Hermitage Museum, St. Petersburg
-</div>
+[Salomon Koninck, "Parable of the Workers in the Vineyard" <br>Hermitage Museum, St. Petersburg. 1648.](https://commons.wikimedia.org/wiki/File%3ASalomon_Koninck_-_Parable_of_the_Workers_in_the_Vineyard_-_WGA12249.jpg "caption")
 
 >>>
 + while Master is **away**
@@ -307,9 +304,7 @@ and the **earth** was **formed**
 By these waters also the **world of that time** <br/>
 was deluged and destroyed.
 
-<div class="caption">(img:
-[Hans Braxmeier](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/)
-)</div>
+[Hans Braxmeier](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/ "caption")
 
 >>>
 + the **then-world**
@@ -406,9 +401,7 @@ Why will you **die**, people of Israel?
 
 [Ezekiel 33:11 (NIV)](# "ref")
 
-<div class="caption">(img:
-[&copy; 2010 @bigbirdz](https://www.flickr.com/photos/bigbirdz/5024081279), CC BY 2.0
-)</div>
+[&copy; 2010 @bigbirdz, CC-BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279 "caption")
 
 >>>
 + Ezekiel as **watchman**:
@@ -452,9 +445,7 @@ will be **laid bare**.
 
 ... the **elements** will be destroyed by **fire** ...
 
-<div class="caption">(img:
-[Lisa Runnels](https://pixabay.com/en/boy-walking-teddy-bear-child-walk-447701/)
-)</div>
+[Lisa Runnels](https://pixabay.com/en/boy-walking-teddy-bear-child-walk-447701/ "caption")
 
 >>>
 + JJ toys will burn
@@ -466,9 +457,7 @@ will be **laid bare**.
 ... and the earth and everything **done** in it <br/>
 will be **laid bare**.
 
-<div class="caption">(img:
-[Wilmer Edson](https://www.pexels.com/photo/light-road-dark-sun-16013/)
-)</div>
+[Wilmer Edson](https://www.pexels.com/photo/light-road-dark-sun-16013/ "caption")
 
 >>>
 + **hidden** things revealed
