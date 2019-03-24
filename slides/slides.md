@@ -308,7 +308,8 @@ was deluged and destroyed.
 
 >>>
 + the **then-world**
-+ parallel to the **now-world**
+  + parallel to the **now-world**
++ after flood, **sign** of God's **promise**?
 
 ---
 <!-- .slide: <%= bg("wheeler-rainbow.jpg") %> -->
