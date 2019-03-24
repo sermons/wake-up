@@ -325,9 +325,7 @@ become a flood to destroy all life.
 
 [Genesis 9:14-15 (NIV)](# "ref")
 
-<div class="caption">(
-[img &copy; James Wheeler](http://www.souvenirpixels.com/photo-blog/double-rainbow), CC BY-NC-SA 3.0
-)</div>
+[&copy; James Wheeler, CC BY-NC-SA 3.0](http://www.souvenirpixels.com/photo-blog/double-rainbow "caption")
 
 >>>
 + never again by **water**, but by ...
