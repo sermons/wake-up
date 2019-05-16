@@ -23,9 +23,10 @@
     },
     "history": [
       {
-        "venue": "Tri-City Chinese Christian Church",
+        "venue": "Tri-City Chinese Christian Church MB",
         "city": "Port Moody",
-        "date": "2019-03-24"
+        "date": "2019-03-24",
+        "duration": 42
       },
       {
         "venue": "Pacific Grace MB Church",
