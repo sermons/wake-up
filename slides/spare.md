@@ -2,6 +2,88 @@
 ## Not rendered in presentation
 
 ---
+[3](# "ref")
+Above all, you must understand that <br/>
+in the last days **scoffers** will come, <br/>
+scoffing and following their own **evil desires**.
+
+[4](# "ref")
+They will say, <br/>
+“Where is this ‘coming’ he **promised**? <br/>
+Ever since our ancestors died, <br/>
+everything **goes on** <br/>
+as it has since the **beginning** of creation.”
+
+[2 Peter 3:3-4 (NIV) (p.1/6)](# "ref")
+
+---
+[5](# "ref")
+But they **deliberately forget** <br/>
+that long ago by **God’s word**
+
+the **heavens** came into **being** <br/>
+and the **earth** was **formed** <br/>
+out of **water** and by water.
+
+[2 Peter 3:5 (NIV) (p.2/6)](# "ref")
+
+---
+[6](# "ref")
+By these waters also the **world of that time** <br/>
+was deluged and destroyed.
+
+[7](# "ref")
+By the same word <br/>
+the **present** heavens and earth
+
+are reserved for **fire**, <br/>
+being kept for the **day of judgment** <br/>
+and destruction of the ungodly.
+
+[2 Peter 3:6-7 (NIV) (p.3/6)](# "ref")
+
+---
+[8](# "ref")
+But do not **forget** this one thing, dear friends: <br/>
+With the Lord a **day** is like a **thousand years**, <br/>
+and a thousand years are like a day.
+
+[9](# "ref")
+The Lord is not **slow** in keeping his promise, <br/>
+as some understand slowness.
+
+Instead he is **patient** with you, <br/>
+not wanting anyone to **perish**, <br/>
+but everyone to come to **repentance**.
+
+[2 Peter 3:8-9 (NIV) (p.4/6)](# "ref")
+
+---
+[10](# "ref")
+But the day of the Lord will come like a **thief**.
+
+The **heavens** will disappear with a **roar**; <br/>
+the **elements** will be destroyed by **fire**,
+
+and the earth and everything **done** in it <br/>
+will be **laid bare**.
+
+[2 Peter 3:10 (NIV) (p.5/6)](# "ref")
+
+---
+[11](# "ref")
+Since everything will be destroyed <br/> in this way, <br/>
+what **kind of people** ought you to be?
+
+[12](# "ref")
+You ought to live **holy** and **godly** lives <br/>
+as you **look forward** to the day of God <br/>
+and **speed** its coming.
+
+[2 Peter 3:11-12 (NIV) (p.6/6)](# "ref")
+
+
+---
 
 ## 2 Peter 3:3-4 (NIV) (p.1/5)
 Above all, you must understand that <br/>

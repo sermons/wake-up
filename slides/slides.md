@@ -6,10 +6,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# The **end** is near!
-# So **what**?
-
-[###](#/outline "secret")
+# The **end** is near! <br> So **what**?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + sure, I **know** Christ will return, but
@@ -19,95 +17,17 @@
 + &rArr; how does it **affect** me?
 
 ---
-[3](# "ref")
-Above all, you must understand that <br/>
-in the last days **scoffers** will come, <br/>
-scoffing and following their own **evil desires**.
-
-[4](# "ref")
-They will say, <br/>
-“Where is this ‘coming’ he **promised**? <br/>
-Ever since our ancestors died, <br/>
-everything **goes on** <br/>
-as it has since the **beginning** of creation.”
-
-[2 Peter 3:3-4 (NIV) (p.1/6)](# "ref")
-
----
-[5](# "ref")
-But they **deliberately forget** <br/>
-that long ago by **God’s word**
-
-the **heavens** came into **being** <br/>
-and the **earth** was **formed** <br/>
-out of **water** and by water.
-
-[2 Peter 3:5 (NIV) (p.2/6)](# "ref")
-
----
-[6](# "ref")
-By these waters also the **world of that time** <br/>
-was deluged and destroyed.
-
-[7](# "ref")
-By the same word <br/>
-the **present** heavens and earth
-
-are reserved for **fire**, <br/>
-being kept for the **day of judgment** <br/>
-and destruction of the ungodly.
-
-[2 Peter 3:6-7 (NIV) (p.3/6)](# "ref")
-
----
-[8](# "ref")
-But do not **forget** this one thing, dear friends: <br/>
-With the Lord a **day** is like a **thousand years**, <br/>
-and a thousand years are like a day.
-
-[9](# "ref")
-The Lord is not **slow** in keeping his promise, <br/>
-as some understand slowness.
-
-Instead he is **patient** with you, <br/>
-not wanting anyone to **perish**, <br/>
-but everyone to come to **repentance**.
-
-[2 Peter 3:8-9 (NIV) (p.4/6)](# "ref")
-
----
-[10](# "ref")
-But the day of the Lord will come like a **thief**.
-
-The **heavens** will disappear with a **roar**; <br/>
-the **elements** will be destroyed by **fire**,
-
-and the earth and everything **done** in it <br/>
-will be **laid bare**.
-
-[2 Peter 3:10 (NIV) (p.5/6)](# "ref")
-
----
-[11](# "ref")
-Since everything will be destroyed <br/> in this way, <br/>
-what **kind of people** ought you to be?
-
-[12](# "ref")
-You ought to live **holy** and **godly** lives <br/>
-as you **look forward** to the day of God <br/>
-and **speed** its coming.
-
-[2 Peter 3:11-12 (NIV) (p.6/6)](# "ref")
-
----
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> id="outline" -->
 
 ## 2Pet3: Wake Up!
+
 1. Don't assume **Continuity** [(v3-4)](# "ref")
 2. Remember **Creation** + Flood [(v5-7)](# "ref")
 3. God's patience is **Charity** [(v8-9)](# "ref")
 4. A **Cataclysm** is Imminent [(v10)](# "ref")
 5. Anticipate Christ's **Coming** [(v11-12)](# "ref")
+
+[Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
 + Those who assume **continuity** of world
@@ -121,17 +41,19 @@ ______
 
 + our idea of present **schema**
   + is aff by view of world **history**
-  + infl think of God's **charac**
++ infl think of God's **charac**
   + urgency + severity of **judg**
-  + **life** in this world reflects
-    + **hope** + **fear** for next
++ **life** in this world reflects
+  + **hope** + **fear** for next
 
 ---
 <!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
-[3](# "ref")
 Above all, you must understand that <br/>
 in the last days **scoffers** will come, <br/>
 scoffing and following their own **evil desires**.
+
+[2 Peter 3:3 (NIV)](# "ref")
+[Edouard Moyse, "Le Grand Sanhedrin", 1868](# "caption")
 
 >>>
 + **scoff**: child play, dance, scorn, deride
@@ -142,12 +64,13 @@ scoffing and following their own **evil desires**.
 
 ---
 <!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
-[4](# "ref")
 They will say, <br/>
 “Where is this ‘coming’ he **promised**? <br/>
 Ever since our ancestors died, <br/>
 everything **goes on** <br/>
 as it has since the **beginning** of creation.”
+
+[2 Peter 3:4 (NIV)](# "ref")
 
 >>>
 + goes on, beginning: **then** &rarr; **now**
@@ -166,6 +89,8 @@ as it has since the **beginning** of creation.”
 + **Legalism** / pride: up to us to save the world
 + **Lusts**: indulge own desires <%= bible('(Jude 1:18-19)') %>
 + **Laziness**: when Master is away <%= bible('(Mt 24:45-51)') %>
+
+[Caleb George](https://unsplash.com/photos/URmkfvtK3Qw "caption")
 
 >>>
 + if assume "everything **goes on**"
@@ -187,6 +112,7 @@ It is these who cause **divisions**, <br/>
 **worldly** people, devoid of the **Spirit**.
 
 [Jude 1:18-19 (ESV)](# "ref")
+[Dan Edwards](https://unsplash.com/photos/cgPxN5Y27pA "caption")
 
 >>>
 + if assume **continuity**:
@@ -252,8 +178,8 @@ and at an hour he is **not aware** of.
 
 ---
 <!-- .slide: data-background="white" -->
-## Have I succumbed to <br/> **legalism**, **lust**, or **laziness**
-## by neglecting the **imminence** <br/> of Christ's return?
+# Have I succumbed to <br/> **legalism**, **lust**, or **laziness** <br/> by neglecting the **imminence** <br/> of Christ's return?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + affects our life **right now**
@@ -262,6 +188,7 @@ and at an hour he is **not aware** of.
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 
 ## 2Pet3: Wake Up!
+
 1. Don't assume Continuity [(v3-4)](# "ref")
 2. **Remember Creation + Flood** [(v5-7)](# "ref")
 3. God's patience is Charity [(v8-9)](# "ref")
@@ -275,7 +202,6 @@ and at an hour he is **not aware** of.
 ---
 <!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
 
-[5](# "ref")
 But they **deliberately forget** <br/>
 that long ago by **God’s word**
 
@@ -283,15 +209,19 @@ the **heavens** came into **being** <br/>
 and the **earth** was **formed** <br/>
 out of **water** and by water.
 
+[2 Peter 3:5a (NIV)](# "ref")
+[Savoie, France. Thomas Tixtaaz](https://unsplash.com/photos/rdwkamJlpiU "caption")
+
 >>>
 + stays **hidden** from them, as they **intend**
   + unrecog as significant
 
 ---
 <!-- .slide: <%= bg("earth.jpg") %> -->
-[5](# "ref")
 By God’s word the **heavens** came into **being** <br/>
 and the **earth** was **formed**
+
+[2 Peter 3:5b (NIV)](# "ref")
 
 >>>
 + heavens being (impf): **sustained**
@@ -300,9 +230,10 @@ and the **earth** was **formed**
 
 ---
 <!-- .slide: <%= bg("Hans-wave-384385.jpg") %> -->
-[6](# "ref")
 By these waters also the **world of that time** <br/>
 was deluged and destroyed.
+
+[2 Peter 3:6 (NIV)](# "ref")
 
 [Hans Braxmeier](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/ "caption")
 
@@ -332,7 +263,6 @@ become a flood to destroy all life.
 
 ---
 <!-- .slide: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
-[7](# "ref")
 By the same word <br/>
 the **present** heavens and earth
 
@@ -340,14 +270,17 @@ are reserved for **fire**, <br/>
 being kept for the **day of judgment** <br/>
 and destruction of the ungodly.
 
+[2 Peter 3:7 (NIV)](# "ref")
+[NASA](https://unsplash.com/photos/NuE8Nu3otjo "caption")
+
 >>>
 + in Noah's time, kept eating + drinking
 + right up until day Noah entered ark
 
 ---
 <!-- .slide: data-background="white" -->
-# What is my <br/> **attitude** toward
-# **Creation** and <br/> the **Flood**?
+# What is my <br/> **attitude** toward <br> **Creation** and <br/> the **Flood**?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Myth? Allegory? Moral fable?
@@ -357,6 +290,7 @@ and destruction of the ungodly.
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 
 ## 2Pet3: Wake Up!
+
 1. Don't assume Continuity [(v3-4)](# "ref")
 2. Remember Creation + Flood [(v5-7)](# "ref")
 3. **God's patience is Charity** [(v8-9)](# "ref")
@@ -366,21 +300,24 @@ and destruction of the ungodly.
 ---
 <!-- .slide: <%= bg("eso9845d-spiral_galaxy_NGC1232.jpg") %> -->
 
-[8](# "ref")
 But do not **forget** this one thing, dear friends: <br/>
 With the Lord a **day** is like a **thousand years**, <br/>
 and a thousand years are like a day.
 
+[2 Peter 3:8 (NIV)](# "ref")
+[ESO. Spiral galaxy NGC1232](https://www.eso.org/public/images/eso9845d/ "caption")
+
 ---
 <!-- .slide: <%= bg("eso9845d-spiral_galaxy_NGC1232.jpg") %> -->
 
-[9](# "ref")
 The Lord is not **slow** in keeping his promise, <br/>
 as some understand slowness.
 
 Instead he is **patient** with you, <br/>
 not wanting anyone to **perish**, <br/>
 but everyone to come to **repentance**.
+
+[2 Peter 3:9 (NIV)](# "ref")
 
 >>>
 + God remembers flood like yesterday
@@ -410,14 +347,14 @@ Why will you **die**, people of Israel?
 
 ---
 <!-- .slide: data-background="white" -->
-## If it is only God's **patience** <br/> to the **not-yet-repentant**
-## that **holds back** <br/> the judgment,
-## how does that change <br/> how I **view** them?
+# If it is only God's **patience** <br/> to the **not-yet-repentant** <br> that **holds back** <br/> the judgment, <br> how does that change <br/> how I **view** them?
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 
 ## 2Pet3: Wake Up!
+
 1. Don't assume Continuity [(v3-4)](# "ref")
 2. Remember Creation + Flood [(v5-7)](# "ref")
 3. God's patience is Charity [(v8-9)](# "ref")
@@ -435,6 +372,9 @@ the **elements** will be destroyed by **fire**,
 
 and the earth and everything **done** in it <br/>
 will be **laid bare**.
+
+[2 Peter 3:10 (NIV)](# "ref")
+[Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
 
 >>>
 + elements: syllable, letter, 1, earth/wind/fire/water
@@ -464,11 +404,13 @@ will be **laid bare**.
 ---
 <!-- .slide: data-background="white" -->
 # What am I <br/> **holding onto** <br/> which will be <br/> **burned** with <br/> the elements?
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 
 ## 2Pet3: Wake Up!
+
 1. Don't assume Continuity [(v3-4)](# "ref")
 2. Remember Creation + Flood [(v5-7)](# "ref")
 3. God's patience is Charity [(v8-9)](# "ref")
@@ -478,14 +420,15 @@ will be **laid bare**.
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 
-[11](# "ref")
 Since everything will be destroyed <br/> in this way, <br/>
 what **kind of people** ought you to be?
 
-[12](# "ref")
 You ought to live **holy** and **godly** lives <br/>
 as you **look forward** to the day of God <br/>
 and **speed** its coming.
+
+[2 Peter 3:11-12 (NIV)](# "ref")
+[Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
 
 >>>
 + look forward: welcome, anticipate, think forward
@@ -521,8 +464,8 @@ will he find **faith** on the earth?
 
 ---
 <!-- .slide: data-background="white" -->
-# Do my **lifestyle** and **reverence**
-# welcome <br/> Christ's return?
+# Do my **lifestyle** and **reverence** <br> welcome Christ's return?
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
