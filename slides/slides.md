@@ -17,7 +17,7 @@
 + &rArr; how does it **affect** me?
 
 ---
-<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> class="outline" id="outline" -->
 
 ## 2Pet3: Wake Up!
 
@@ -26,6 +26,8 @@
 3. God's patience is **Charity** [(v8-9)](# "ref")
 4. A **Cataclysm** is Imminent [(v10)](# "ref")
 5. Anticipate Christ's **Coming** [(v11-12)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 [Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
@@ -185,7 +187,7 @@ and at an hour he is **not aware** of.
 + affects our life **right now**
 
 ---
-<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> class="outline" -->
 
 ## 2Pet3: Wake Up!
 
@@ -194,6 +196,8 @@ and at an hour he is **not aware** of.
 3. God's patience is Charity [(v8-9)](# "ref")
 4. A Cataclysm is Imminent [(v10)](# "ref")
 5. Anticipate Christ's Coming [(v11-12)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + to correct our thinking about present **schema** of world,
@@ -287,7 +291,7 @@ and destruction of the ungodly.
 + Historical reality that warns us of the real future judgment
 
 ---
-<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> class="outline" -->
 
 ## 2Pet3: Wake Up!
 
@@ -296,6 +300,8 @@ and destruction of the ungodly.
 3. **God's patience is Charity** [(v8-9)](# "ref")
 4. A Cataclysm is Imminent [(v10)](# "ref")
 5. Anticipate Christ's Coming [(v11-12)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("eso9845d-spiral_galaxy_NGC1232.jpg") %> -->
@@ -351,7 +357,7 @@ Why will you **die**, people of Israel?
 <!-- .element: class="r-fit-text" -->
 
 ---
-<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> class="outline" -->
 
 ## 2Pet3: Wake Up!
 
@@ -360,6 +366,8 @@ Why will you **die**, people of Israel?
 3. God's patience is Charity [(v8-9)](# "ref")
 4. **A Cataclysm is Imminent** [(v10)](# "ref")
 5. Anticipate Christ's Coming [(v11-12)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
@@ -407,7 +415,7 @@ will be **laid bare**.
 <!-- .element: class="r-fit-text" -->
 
 ---
-<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> class="outline" -->
 
 ## 2Pet3: Wake Up!
 
@@ -416,6 +424,8 @@ will be **laid bare**.
 3. God's patience is Charity [(v8-9)](# "ref")
 4. A Cataclysm is Imminent [(v10)](# "ref")
 5. **Anticipate Christ's Coming** [(v11-12)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
