@@ -133,7 +133,7 @@
     "ini": "^5.0.0",
     "load-grunt-tasks": "^5.1.0",
     "sass": "^1.78.0",
-    "qrcode": "^1.5.3"
+    "qrcode": "^1.5.4"
   },
   "scripts": {
     "postinstall": "grunt install",
