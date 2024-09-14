@@ -238,7 +238,6 @@ By these waters also the **world of that time** <br/>
 was deluged and destroyed.
 
 [2 Peter 3:6 (NIV)](# "ref")
-
 [Hans Braxmeier](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/ "caption")
 
 >>>
@@ -259,7 +258,6 @@ Never again will the **waters** <br/>
 become a flood to destroy all life.
 
 [Genesis 9:14-15 (NIV)](# "ref")
-
 [&copy; James Wheeler, CC BY-NC-SA 3.0](http://www.souvenirpixels.com/photo-blog/double-rainbow "caption")
 
 >>>
@@ -283,7 +281,7 @@ and destruction of the ungodly.
 
 ---
 <!-- .slide: data-background="white" -->
-# What is my <br/> **attitude** toward <br> **Creation** and <br/> the **Flood**?
+# What is my **attitude** toward <br> **Creation** and the **Flood**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -342,7 +340,6 @@ but rather that they <br/>
 Why will you **die**, people of Israel?
 
 [Ezekiel 33:11 (NIV)](# "ref")
-
 [&copy; 2010 @bigbirdz, CC-BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279 "caption")
 
 >>>
@@ -353,7 +350,7 @@ Why will you **die**, people of Israel?
 
 ---
 <!-- .slide: data-background="white" -->
-# If it is only God's **patience** <br/> to the **not-yet-repentant** <br> that **holds back** <br/> the judgment, <br> how does that change <br/> how I **view** them?
+# If it is only God's **patience** <br/> to the **not-yet-repentant** <br> that **holds back** <br/> the judgment, <br> how does that change <br/> how I **see** them?
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -372,7 +369,6 @@ Why will you **die**, people of Israel?
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 
-[10](# "ref")
 But the day of the Lord will come like a **thief**.
 
 The **heavens** will disappear with a **roar**; <br/>
@@ -392,6 +388,7 @@ will be **laid bare**.
 
 ... the **elements** will be destroyed by **fire** ...
 
+[2 Peter 3:10 (NIV)](# "ref")
 [Lisa Runnels](https://pixabay.com/en/boy-walking-teddy-bear-child-walk-447701/ "caption")
 
 >>>
@@ -404,6 +401,7 @@ will be **laid bare**.
 ... and the earth and everything **done** in it <br/>
 will be **laid bare**.
 
+[2 Peter 3:10 (NIV)](# "ref")
 [Wilmer Edson](https://www.pexels.com/photo/light-road-dark-sun-16013/ "caption")
 
 >>>
@@ -411,7 +409,7 @@ will be **laid bare**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What am I <br/> **holding onto** <br/> which will be <br/> **burned** with <br/> the elements?
+# What am I **holding onto** <br/> which will be **burned** <br/> with the elements?
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -430,7 +428,7 @@ will be **laid bare**.
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 
-Since everything will be destroyed <br/> in this way, <br/>
+Since everything will be <br/> destroyed in this way, <br/>
 what **kind of people** ought you to be?
 
 You ought to live **holy** and **godly** lives <br/>
@@ -476,12 +474,6 @@ will he find **faith** on the earth?
 <!-- .slide: data-background="white" -->
 # Do my **lifestyle** and **reverence** <br> welcome Christ's return?
 <!-- .element: class="r-fit-text" -->
-
----
-<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
-
-When the **Son of Man** comes, <br/>
-will he find **faith** on the earth?
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> class="empty" -->
