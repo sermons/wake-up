@@ -41,7 +41,9 @@
         <span class="links">
           <a href="<%= pkg.shortname %>.pdf">
             <i class="fas fa-file-pdf"></i></a>
-	  <a href="<%= process.env.TRAVIS_BUILD_WEB_URL %>">
+	  <a onclick='Reveal.getPlugin("notes").open()'>
+	    <i class="fas fa-comment"></i></a>
+          <a href="https://github.com/<%= pkg.repository %>/actions/runs/<%= process.env.GITHUB_RUN_ID %>">
             <i class="fas fa-hammer"></i></a>
         </span>
         <span class="commit">
@@ -55,13 +57,16 @@
     <script src="<%= js.src %>" integrity="<%= js.integrity %>" crossorigin="anonymous"></script>
     <% } ) %>
 
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-        SVG: { scale: 77 }
-      });
-    </script>
+    <% pkg.config.plugins.forEach( function(js) { %>
+    <script src="<%= pkg.config.reveal + "/plugin/" + js %>" crossorigin="anonymous"></script>
+    <% } ) %>
+
+    <script src="lib/socket.io/socket.io.min.js"></script>
 
     <script>
+      mpkey = Reveal().getQueryHash().s || null
+      mpdep = 'https://raw.githack.com/reveal/multiplex/master/' + (mpkey ? 'master' : 'client') + '.js'
+
       Reveal.initialize({
         display: 'flex',
         maxScale: 4.0,
@@ -73,30 +78,22 @@
           smartypants: true
         },
 
-        math: {
-          mathjax: '<%= pkg.config.mathjax %>',
-          config: 'AM_SVG'
-        },
-
         multiplex: {
           url: '<%= pkg.config.multiplex.url %>',
           id : '<%= pkg.config.multiplex.id  %>',
-          secret: Reveal.getQueryHash().s || null
+          secret: mpkey
         },
 
+        plugins: [ RevealMarkdown, RevealHighlight, RevealMath.KaTeX, RevealNotes ],
+
         dependencies: [
-          { src: Reveal.getQueryHash().s ? '<%= pkg.config.reveal %>/plugin/multiplex/master.min.js' : '<%= pkg.config.reveal %>/plugin/multiplex/client.min.js', async:true }
-        ]
+	  (mpkey == 'none') ? null : { src: mpdep, async:true }
+	].filter(v => v)
       });
     </script>
 
-    <% pkg.config.plugins.forEach( function(js) { %>
-    <script src="<%= pkg.config.reveal + "/plugin/" + js %>" crossorigin="anonymous"></script>
-    <% } ) %>
-    <script src="js/notes.js"></script>
-
     <script>
-      hljs.initHighlightingOnLoad();
+      hljs.highlightAll();
     </script>
 
   </body>
