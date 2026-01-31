@@ -1,3 +1,5 @@
+@use "sass:color";
+@use "sass:meta";
 /**
  * Black theme for reveal.js
  *
@@ -12,7 +14,7 @@
 
 // Include theme-specific fonts
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
-@import "_cwtexkai";
+@include meta.load-css("_cwtexkai");
 
 // Override theme settings (see template/settings.scss)
 $mainFont: 'Source Sans Pro', 'cwTeXKai', Helvetica, sans-serif;
@@ -44,10 +46,13 @@ $headingTextTransform: none;
 
 // Links
 $linkColor: #42affa;
-$linkColorHover: lighten( $linkColor, 15% );
-$selectionBackgroundColor: lighten( $linkColor, 25% );
+$linkColorHover: color.adjust( $linkColor, $lightness: 15% );
+$selectionBackgroundColor: color.adjust( $linkColor, $lightness: 25% );
+
+@include dark-bg-text-color(#fff);
 
 // Theme template ------------------------------
+// @include meta.load-css("template/theme");
 @import "template/theme";
 // ---------------------------------------------
 
