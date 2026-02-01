@@ -60,8 +60,11 @@ scoffing and following their own **evil desires**.
 >>>
 + **scoff**: child play, dance, scorn, deride
   + e.g., abusing ants
-+ assumed **superiority**: knowledge/science
-  + enlight, liberalism/tolerance
++ assumed **superiority**: in **power**:
+  + "I do what I want,"
+  + "no one can stop me"
++ or **knowledge** / sci:
+  + liberalism/tolerance, enlight
 + but actually: own **lusts**
 
 ---
@@ -80,7 +83,7 @@ as it has since the **beginning** of creation.”
 + **Absent** Creator: made world and walked off
 + don't **need** God: doing fine w/o Him
 + don't **want** God: left world to rot
-  + God **ignorant**, **weak**, or **cruel**:
++ God **ignorant**, **weak**, or **cruel**:
   + doubt **wisdom**, **power**, + **love**
 
 ---
@@ -100,7 +103,7 @@ as it has since the **beginning** of creation.”
 + 3 **pitfalls** we slide into:
 + God is **not** going to save world
   + so **my actions** will
-  + e.g., composting
++ e.g., composting
   + pride: are **you** helping?
 + 2nd: "**scoffers**" also in Jude:
 
@@ -126,6 +129,8 @@ It is these who cause **divisions**, <br/>
   + but own legalistic rules
 + follow rules of **this world**
   + not God's kingdom
++ "Strong do what they can,"
+  + "weak suffer what they must"
 + unable to perceive **mind of Christ**
 + 3rd pitfall: **laziness**
 
@@ -175,8 +180,11 @@ and at an hour he is **not aware** of.
 
 >>>
 + cut him to **pieces**
-+ place with the **hypocrites**
-+ **weeping** and gnashing of teeth.
+  + place with the **hypocrites**
+  + **weeping** and gnashing of teeth.
++ There **will** be a final reckoning
+  + It matters that we do **right**
+  + in the eyes of our **Master**
 
 ---
 <!-- .slide: data-background="white" -->
